@@ -1,0 +1,1201 @@
+Student_ID,Student_Name,Gender,City,Course_Name,Enrollment_Date,Course_Fee,Batch,Completion_Status,Completion_Date,Placement_Status,Company_Name,Package_LPA
+S0001,Anjali Patil,Female,Nagpur,Digital Marketing,14-03-2025,35000,Mar-25,Ongoing,,,,
+S0002,Sagar Chavan,Male,Pune,UI/UX Design,21-06-2025,30000,Jun-25,Ongoing,,,,
+S0003,Arjun Sharma,Female,Pune,Cyber Security,27-07-2024,55000,Jul-24,Completed,02-11-2024 00:00,Placed,Accenture,4.6
+S0004,Kavya Sharma,Male,Aurangabad,Full Stack Development,03-03-2024,50000,Mar-24,Completed,08-06-2024 00:00,Not Placed,,
+S0005,Tanvi Patil,Female,Nagpur,Full Stack Development,16-12-2024,50000,Dec-24,Completed,10-04-2025 00:00,Placed,Infosys,7.7
+S0006,Anjali Singh,Male,Mumbai,Data Analytics,26-07-2025,45000,Jul-25,Completed,09-10-2025 00:00,Placed,Infosys,4.1
+S0007,Rohit Mehta,Male,Nashik,Full Stack Development,30-05-2025,50000,May-25,Ongoing,,,,
+S0008,Aditya Yadav,Female,Aurangabad,Full Stack Development,10-04-2025,50000,Apr-25,Completed,27-07-2025 00:00,Placed,Accenture,4.5
+S0009,Sneha Jadhav,Female,Aurangabad,UI/UX Design,18-11-2024,30000,Nov-24,Completed,12-03-2025 00:00,Placed,TCS,3.8
+S0010,Anjali Kale,Female,Mumbai,Digital Marketing,13-04-2025,35000,Apr-25,Completed,23-07-2025 00:00,Placed,Wipro,3.7
+S0011,Rohit More,Female,Aurangabad,Cyber Security,16-04-2025,55000,Apr-25,Dropped,,,,
+S0012,Riya Pawar,Female,Pune,Digital Marketing,07-04-2024,35000,Apr-24,Completed,30-07-2024 00:00,Placed,Infosys,6.5
+S0013,Sagar Gupta,Male,Nagpur,Digital Marketing,06-10-2025,35000,Oct-25,Ongoing,,,,
+S0014,Komal Pawar,Male,Pune,Cyber Security,19-02-2024,55000,Feb-24,Completed,25-05-2024 00:00,Placed,Accenture,3.7
+S0015,Amit Sawant,Male,Mumbai,Full Stack Development,07-10-2024,50000,Oct-24,Completed,12-12-2024 00:00,Placed,Capgemini,3.9
+S0016,Riya Gupta,Male,Nashik,Digital Marketing,23-12-2025,35000,Dec-25,Completed,29-03-2026 00:00,Not Placed,,
+S0017,Rahul Shinde,Male,Nashik,Digital Marketing,10-10-2024,35000,Oct-24,Completed,29-12-2024 00:00,Not Placed,,
+S0018,Pooja Sharma,Male,Mumbai,Full Stack Development,21-12-2024,50000,Dec-24,Completed,01-04-2025 00:00,Placed,TCS,7.6
+S0019,Anjali Yadav,Female,Pune,Full Stack Development,02-12-2024,50000,Dec-24,Completed,22-02-2025 00:00,Not Placed,,
+S0020,Manish Mehta,Male,Pune,Full Stack Development,13-01-2024,50000,Jan-24,Ongoing,,,,
+S0021,Kavya Yadav,Male,Nagpur,Data Analytics,01-04-2024,45000,Apr-24,Completed,27-07-2024 00:00,Not Placed,,
+S0022,Sagar Shinde,Male,Nagpur,Cyber Security,27-04-2024,55000,Apr-24,Ongoing,,,,
+S0023,Harsh Naik,Male,Mumbai,Full Stack Development,10-09-2025,50000,Sep-25,Ongoing,,,,
+S0024,Amit Kulkarni,Female,Nagpur,Data Analytics,29-10-2025,45000,Oct-25,Completed,07-01-2026 00:00,Placed,Infosys,5.4
+S0025,Tanvi Naik,Male,Mumbai,Cyber Security,15-07-2024,55000,Jul-24,Completed,12-11-2024 00:00,Placed,Capgemini,7.8
+S0026,Amit Verma,Female,Nagpur,UI/UX Design,18-09-2025,30000,Sep-25,Completed,17-12-2025 00:00,Not Placed,,
+S0027,Anjali More,Female,Pune,Data Analytics,03-06-2024,45000,Jun-24,Ongoing,,,,
+S0028,Sagar Verma,Male,Nashik,Full Stack Development,24-10-2025,50000,Oct-25,Completed,23-12-2025 00:00,Placed,Capgemini,4.2
+S0029,Yash Mishra,Male,Aurangabad,Cyber Security,12-08-2025,55000,Aug-25,Completed,05-11-2025 00:00,Placed,Infosys,7.7
+S0030,Harsh Pawar,Male,Nagpur,Full Stack Development,18-01-2025,50000,Jan-25,Ongoing,,,,
+S0031,Kunal Sawant,Female,Aurangabad,Data Analytics,15-05-2025,45000,May-25,Completed,29-07-2025 00:00,Placed,TCS,3.1
+S0032,Pratik Mehta,Female,Mumbai,Full Stack Development,27-10-2024,50000,Oct-24,Completed,06-02-2025 00:00,Placed,Capgemini,4.5
+S0033,Arjun Sharma,Male,Nagpur,Digital Marketing,10-08-2024,35000,Aug-24,Completed,08-11-2024 00:00,Placed,Wipro,4.1
+S0034,Sagar Sawant,Male,Nagpur,Digital Marketing,14-08-2025,35000,Aug-25,Ongoing,,,,
+S0035,Rahul Singh,Male,Pune,Full Stack Development,16-03-2024,50000,Mar-24,Ongoing,,,,
+S0036,Amit Chavan,Female,Nashik,Full Stack Development,16-04-2024,50000,Apr-24,Completed,15-06-2024 00:00,Placed,Capgemini,6.9
+S0037,Rohit Mehta,Female,Mumbai,Digital Marketing,07-04-2024,35000,Apr-24,Completed,12-07-2024 00:00,Placed,Infosys,4.9
+S0038,Sneha Rane,Female,Nagpur,UI/UX Design,13-07-2024,30000,Jul-24,Completed,23-09-2024 00:00,Not Placed,,
+S0039,Sagar Verma,Female,Mumbai,Full Stack Development,13-09-2025,50000,Sep-25,Ongoing,,,,
+S0040,Kavya Kale,Male,Pune,Cyber Security,17-01-2024,55000,Jan-24,Completed,24-04-2024 00:00,Not Placed,,
+S0041,Yash Rane,Male,Nashik,Cyber Security,30-03-2025,55000,Mar-25,Completed,23-07-2025 00:00,Placed,TCS,7.7
+S0042,Manish Chavan,Female,Nagpur,Data Analytics,05-05-2025,45000,May-25,Completed,19-07-2025 00:00,Not Placed,,
+S0043,Komal More,Male,Mumbai,Full Stack Development,20-12-2024,50000,Dec-24,Ongoing,,,,
+S0044,Tejas Gupta,Female,Mumbai,UI/UX Design,09-12-2024,30000,Dec-24,Dropped,,,,
+S0045,Rahul Joshi,Female,Pune,Digital Marketing,10-06-2024,35000,Jun-24,Dropped,,,,
+S0046,Isha Mishra,Male,Aurangabad,Full Stack Development,09-09-2024,50000,Sep-24,Completed,24-12-2024 00:00,Placed,TCS,5.5
+S0047,Kunal Gupta,Female,Mumbai,Data Analytics,14-06-2024,45000,Jun-24,Completed,17-08-2024 00:00,Not Placed,,
+S0048,Pratik Mehta,Female,Nagpur,Digital Marketing,20-04-2024,35000,Apr-24,Ongoing,,,,
+S0049,Shruti Shinde,Male,Mumbai,Cyber Security,16-09-2024,55000,Sep-24,Completed,09-12-2024 00:00,Placed,Wipro,6.9
+S0050,Komal Singh,Female,Nagpur,Data Analytics,28-04-2024,45000,Apr-24,Completed,12-07-2024 00:00,Placed,Capgemini,7.3
+S0051,Kavya Mehta,Male,Nagpur,Digital Marketing,21-12-2025,35000,Dec-25,Completed,03-03-2026 00:00,Placed,TCS,6.1
+S0052,Shruti Shinde,Female,Pune,Cyber Security,20-03-2025,55000,Mar-25,Completed,13-06-2025 00:00,Placed,Wipro,4.3
+S0053,Pratik Gupta,Female,Aurangabad,Full Stack Development,17-07-2025,50000,Jul-25,Completed,26-09-2025 00:00,Not Placed,,
+S0054,Yash Jadhav,Male,Aurangabad,Cyber Security,16-05-2024,55000,May-24,Completed,06-09-2024 00:00,Placed,Capgemini,5.4
+S0055,Sagar Deshmukh,Male,Mumbai,UI/UX Design,12-02-2025,30000,Feb-25,Completed,13-04-2025 00:00,Not Placed,,
+S0056,Harsh Singh,Female,Nagpur,Cyber Security,29-01-2025,55000,Jan-25,Ongoing,,,,
+S0057,Pratik Mehta,Male,Pune,Data Analytics,13-05-2024,45000,May-24,Completed,08-08-2024 00:00,Placed,Wipro,5.9
+S0058,Arjun Joshi,Female,Pune,UI/UX Design,01-07-2024,30000,Jul-24,Ongoing,,,,
+S0059,Rahul Rane,Male,Aurangabad,UI/UX Design,05-07-2024,30000,Jul-24,Ongoing,,,,
+S0060,Priya Chavan,Female,Aurangabad,Data Analytics,20-04-2025,45000,Apr-25,Ongoing,,,,
+S0061,Nikhil Joshi,Female,Nagpur,Digital Marketing,27-12-2024,35000,Dec-24,Completed,24-03-2025 00:00,Placed,Capgemini,5.1
+S0062,Meera Chavan,Female,Pune,Digital Marketing,22-09-2025,35000,Sep-25,Completed,05-01-2026 00:00,Placed,Infosys,5.9
+S0063,Aditi Pawar,Female,Mumbai,Cyber Security,27-11-2025,55000,Nov-25,Dropped,,,,
+S0064,Rahul Mishra,Male,Nashik,UI/UX Design,03-07-2024,30000,Jul-24,Completed,04-09-2024 00:00,Placed,TCS,4.6
+S0065,Manish Deshmukh,Female,Nashik,Full Stack Development,02-05-2025,50000,May-25,Completed,10-08-2025 00:00,Not Placed,,
+S0066,Nikhil Rane,Male,Nashik,Data Analytics,30-07-2024,45000,Jul-24,Ongoing,,,,
+S0067,Arjun Kulkarni,Male,Mumbai,Digital Marketing,17-04-2024,35000,Apr-24,Completed,04-07-2024 00:00,Placed,Wipro,6.3
+S0068,Meera Patil,Male,Mumbai,Cyber Security,26-10-2025,55000,Oct-25,Completed,31-12-2025 00:00,Not Placed,,
+S0069,Priya Naik,Male,Mumbai,Digital Marketing,28-12-2025,35000,Dec-25,Ongoing,,,,
+S0070,Amit Sharma,Female,Aurangabad,Full Stack Development,24-04-2024,50000,Apr-24,Completed,14-07-2024 00:00,Placed,Capgemini,5.9
+S0071,Shruti Rane,Female,Mumbai,Full Stack Development,26-01-2024,50000,Jan-24,Completed,15-05-2024 00:00,Placed,Capgemini,4.5
+S0072,Omkar Sawant,Female,Nagpur,UI/UX Design,24-03-2025,30000,Mar-25,Completed,29-05-2025 00:00,Not Placed,,
+S0073,Vikram Mishra,Male,Nagpur,Cyber Security,14-11-2024,55000,Nov-24,Ongoing,,,,
+S0074,Yash Verma,Female,Nashik,Data Analytics,22-08-2024,45000,Aug-24,Completed,07-11-2024 00:00,Placed,Capgemini,4.2
+S0075,Meera Patil,Male,Pune,Data Analytics,24-06-2025,45000,Jun-25,Ongoing,,,,
+S0076,Swati Kulkarni,Male,Nagpur,UI/UX Design,05-02-2024,30000,Feb-24,Ongoing,,,,
+S0077,Komal Jadhav,Female,Nagpur,UI/UX Design,14-03-2024,30000,Mar-24,Completed,05-06-2024 00:00,Placed,Capgemini,7.9
+S0078,Yash Jadhav,Female,Aurangabad,UI/UX Design,03-08-2024,30000,Aug-24,Ongoing,,,,
+S0079,Pratik Yadav,Female,Pune,Digital Marketing,05-03-2024,35000,Mar-24,Ongoing,,,,
+S0080,Neha Naik,Male,Nagpur,Full Stack Development,06-10-2024,50000,Oct-24,Dropped,,,,
+S0081,Pratik Sharma,Male,Mumbai,UI/UX Design,19-10-2025,30000,Oct-25,Dropped,,,,
+S0082,Omkar Jadhav,Female,Nashik,Full Stack Development,10-03-2024,50000,Mar-24,Ongoing,,,,
+S0083,Vikram Chavan,Male,Nashik,Data Analytics,24-02-2024,45000,Feb-24,Ongoing,,,,
+S0084,Shruti Shinde,Male,Nashik,Full Stack Development,09-10-2024,50000,Oct-24,Ongoing,,,,
+S0085,Amit Rane,Female,Pune,Full Stack Development,17-07-2025,50000,Jul-25,Ongoing,,,,
+S0086,Isha Shinde,Female,Mumbai,Data Analytics,30-09-2025,45000,Sep-25,Completed,14-12-2025 00:00,Placed,Infosys,3.7
+S0087,Sneha Joshi,Female,Nagpur,Cyber Security,03-12-2024,55000,Dec-24,Dropped,,,,
+S0088,Manish Kale,Female,Mumbai,Digital Marketing,07-11-2025,35000,Nov-25,Completed,02-02-2026 00:00,Placed,Accenture,3.3
+S0089,Bhakti Gupta,Male,Mumbai,Digital Marketing,09-04-2024,35000,Apr-24,Completed,14-06-2024 00:00,Placed,Accenture,3.1
+S0090,Priya Mishra,Male,Nagpur,Full Stack Development,14-09-2025,50000,Sep-25,Ongoing,,,,
+S0091,Pooja Sharma,Female,Aurangabad,UI/UX Design,08-10-2024,30000,Oct-24,Ongoing,,,,
+S0092,Rohit Chavan,Female,Pune,Digital Marketing,28-07-2025,35000,Jul-25,Dropped,,,,
+S0093,Anjali Rane,Male,Nagpur,Cyber Security,26-01-2024,55000,Jan-24,Completed,09-05-2024 00:00,Not Placed,,
+S0094,Sneha Singh,Female,Nashik,UI/UX Design,17-01-2025,30000,Jan-25,Ongoing,,,,
+S0095,Tanvi Chavan,Female,Nashik,Digital Marketing,06-11-2025,35000,Nov-25,Completed,26-02-2026 00:00,Placed,Capgemini,3.4
+S0096,Isha Verma,Female,Mumbai,Digital Marketing,25-08-2024,35000,Aug-24,Ongoing,,,,
+S0097,Rahul Pawar,Male,Aurangabad,UI/UX Design,10-10-2025,30000,Oct-25,Completed,28-01-2026 00:00,Placed,Infosys,6.1
+S0098,Sagar Deshmukh,Male,Aurangabad,Data Analytics,09-10-2024,45000,Oct-24,Completed,11-01-2025 00:00,Placed,TCS,5.9
+S0099,Shruti Chavan,Male,Nagpur,UI/UX Design,06-04-2024,30000,Apr-24,Completed,17-06-2024 00:00,Placed,Infosys,4
+S0100,Pratik Verma,Female,Mumbai,Cyber Security,21-02-2025,55000,Feb-25,Completed,25-05-2025 00:00,Not Placed,,
+S0101,Sagar Naik,Female,Nagpur,Digital Marketing,10-07-2025,35000,Jul-25,Completed,29-09-2025 00:00,Placed,TCS,8
+S0102,Yash More,Female,Mumbai,UI/UX Design,11-09-2025,30000,Sep-25,Completed,02-01-2026 00:00,Placed,Infosys,6
+S0103,Pooja Deshmukh,Male,Nashik,Digital Marketing,08-10-2024,35000,Oct-24,Dropped,,,,
+S0104,Shruti Pawar,Female,Nagpur,Digital Marketing,06-11-2025,35000,Nov-25,Ongoing,,,,
+S0105,Riya Naik,Female,Aurangabad,Full Stack Development,06-10-2025,50000,Oct-25,Completed,27-01-2026 00:00,Placed,Wipro,4.7
+S0106,Swati Mishra,Female,Mumbai,UI/UX Design,28-07-2025,30000,Jul-25,Completed,25-11-2025 00:00,Placed,Infosys,3.3
+S0107,Tanvi Verma,Male,Mumbai,UI/UX Design,25-05-2025,30000,May-25,Completed,22-08-2025 00:00,Placed,Infosys,7.7
+S0108,Isha Rane,Male,Nashik,UI/UX Design,11-01-2024,30000,Jan-24,Ongoing,,,,
+S0109,Aditya Naik,Male,Nagpur,Cyber Security,08-04-2024,55000,Apr-24,Ongoing,,,,
+S0110,Pratik Chavan,Male,Aurangabad,Cyber Security,15-07-2024,55000,Jul-24,Ongoing,,,,
+S0111,Kunal More,Female,Mumbai,Full Stack Development,22-12-2024,50000,Dec-24,Completed,31-03-2025 00:00,Placed,Wipro,5
+S0112,Priya Jadhav,Male,Mumbai,Digital Marketing,10-12-2024,35000,Dec-24,Completed,23-03-2025 00:00,Placed,Infosys,4.2
+S0113,Aditya Naik,Male,Aurangabad,Full Stack Development,25-02-2025,50000,Feb-25,Completed,16-06-2025 00:00,Placed,Wipro,3.9
+S0114,Amit Joshi,Female,Mumbai,Full Stack Development,29-07-2024,50000,Jul-24,Completed,24-10-2024 00:00,Not Placed,,
+S0115,Kunal Sharma,Male,Aurangabad,UI/UX Design,21-09-2024,30000,Sep-24,Completed,09-01-2025 00:00,Placed,TCS,7.4
+S0116,Meera Mehta,Female,Mumbai,Full Stack Development,19-08-2024,50000,Aug-24,Ongoing,,,,
+S0117,Riya Rane,Male,Nashik,Cyber Security,25-04-2025,55000,Apr-25,Completed,14-07-2025 00:00,Placed,Wipro,7.7
+S0118,Neha Deshmukh,Male,Nashik,Digital Marketing,29-04-2025,35000,Apr-25,Completed,14-07-2025 00:00,Placed,Capgemini,4.7
+S0119,Riya Jadhav,Female,Pune,Digital Marketing,17-10-2025,35000,Oct-25,Completed,10-02-2026 00:00,Placed,Wipro,7.3
+S0120,Priya Gupta,Female,Nashik,UI/UX Design,07-11-2025,30000,Nov-25,Completed,10-01-2026 00:00,Placed,Accenture,3.9
+S0121,Arjun Naik,Female,Aurangabad,Full Stack Development,14-12-2024,50000,Dec-24,Completed,07-04-2025 00:00,Placed,Capgemini,4.1
+S0122,Meera More,Male,Pune,Cyber Security,11-01-2024,55000,Jan-24,Dropped,,,,
+S0123,Yash Kale,Male,Aurangabad,Digital Marketing,05-02-2024,35000,Feb-24,Completed,20-05-2024 00:00,Placed,Accenture,8
+S0124,Bhakti Gupta,Female,Nagpur,Full Stack Development,25-04-2025,50000,Apr-25,Completed,15-08-2025 00:00,Placed,Accenture,6.9
+S0125,Harsh Pawar,Female,Pune,Cyber Security,07-05-2025,55000,May-25,Completed,17-07-2025 00:00,Placed,TCS,7.3
+S0126,Bhakti Kale,Male,Nashik,Data Analytics,11-01-2025,45000,Jan-25,Ongoing,,,,
+S0127,Kunal Deshmukh,Female,Nagpur,Data Analytics,24-12-2024,45000,Dec-24,Ongoing,,,,
+S0128,Neha Rane,Female,Nagpur,UI/UX Design,27-11-2025,30000,Nov-25,Completed,21-03-2026 00:00,Not Placed,,
+S0129,Sagar Sharma,Female,Pune,UI/UX Design,18-05-2024,30000,May-24,Ongoing,,,,
+S0130,Isha Kale,Female,Pune,UI/UX Design,04-12-2024,30000,Dec-24,Completed,25-03-2025 00:00,Placed,Wipro,5.6
+S0131,Vikram Shinde,Female,Nashik,Digital Marketing,23-01-2025,35000,Jan-25,Ongoing,,,,
+S0132,Tejas Naik,Male,Mumbai,UI/UX Design,11-11-2024,30000,Nov-24,Ongoing,,,,
+S0133,Bhakti Yadav,Female,Aurangabad,Full Stack Development,16-02-2025,50000,Feb-25,Completed,20-05-2025 00:00,Placed,TCS,3.5
+S0134,Kavya Pawar,Female,Pune,Full Stack Development,20-05-2024,50000,May-24,Completed,17-08-2024 00:00,Placed,Infosys,5.2
+S0135,Komal Yadav,Male,Aurangabad,Data Analytics,10-04-2025,45000,Apr-25,Completed,18-06-2025 00:00,Placed,Capgemini,7.3
+S0136,Yash Gupta,Female,Aurangabad,Cyber Security,22-10-2025,55000,Oct-25,Dropped,,,,
+S0137,Manish Patil,Female,Nashik,Data Analytics,10-12-2025,45000,Dec-25,Ongoing,,,,
+S0138,Pooja Joshi,Male,Pune,Cyber Security,03-09-2025,55000,Sep-25,Dropped,,,,
+S0139,Amit Verma,Male,Aurangabad,Data Analytics,05-09-2025,45000,Sep-25,Dropped,,,,
+S0140,Nikhil Mehta,Female,Pune,Full Stack Development,21-11-2025,50000,Nov-25,Completed,31-01-2026 00:00,Placed,Capgemini,5.9
+S0141,Omkar Kale,Female,Aurangabad,Full Stack Development,01-06-2024,50000,Jun-24,Completed,11-08-2024 00:00,Placed,Infosys,4
+S0142,Amit Shinde,Female,Aurangabad,Full Stack Development,22-12-2025,50000,Dec-25,Dropped,,,,
+S0143,Tanvi Joshi,Female,Mumbai,UI/UX Design,20-05-2025,30000,May-25,Completed,06-08-2025 00:00,Placed,Infosys,3.6
+S0144,Riya Verma,Female,Nashik,Cyber Security,25-03-2025,55000,Mar-25,Dropped,,,,
+S0145,Isha Chavan,Female,Nashik,Full Stack Development,01-12-2024,50000,Dec-24,Completed,24-03-2025 00:00,Placed,Infosys,5.9
+S0146,Sagar Jadhav,Female,Aurangabad,Cyber Security,11-01-2025,55000,Jan-25,Completed,25-03-2025 00:00,Placed,Capgemini,4
+S0147,Bhakti Sharma,Female,Aurangabad,Full Stack Development,29-06-2025,50000,Jun-25,Completed,16-09-2025 00:00,Not Placed,,
+S0148,Yash Deshmukh,Male,Aurangabad,Digital Marketing,05-06-2025,35000,Jun-25,Ongoing,,,,
+S0149,Riya Rane,Female,Mumbai,Full Stack Development,01-03-2025,50000,Mar-25,Completed,13-06-2025 00:00,Placed,TCS,5.6
+S0150,Vikram Deshmukh,Female,Mumbai,Digital Marketing,01-01-2025,35000,Jan-25,Ongoing,,,,
+S0151,Rohit Mishra,Female,Mumbai,Cyber Security,29-09-2025,55000,Sep-25,Completed,11-01-2026 00:00,Placed,Capgemini,5.8
+S0152,Bhakti Pawar,Male,Nashik,Cyber Security,10-10-2024,55000,Oct-24,Completed,05-02-2025 00:00,Placed,Capgemini,5
+S0153,Manish Deshmukh,Male,Nagpur,Digital Marketing,13-03-2025,35000,Mar-25,Completed,05-06-2025 00:00,Not Placed,,
+S0154,Sagar More,Female,Pune,UI/UX Design,02-10-2024,30000,Oct-24,Completed,18-12-2024 00:00,Not Placed,,
+S0155,Shruti Pawar,Female,Aurangabad,Cyber Security,03-07-2024,55000,Jul-24,Completed,01-10-2024 00:00,Placed,Wipro,7.5
+S0156,Neha Rane,Female,Nagpur,Data Analytics,03-01-2024,45000,Jan-24,Dropped,,,,
+S0157,Harsh Mishra,Female,Aurangabad,UI/UX Design,25-02-2024,30000,Feb-24,Ongoing,,,,
+S0158,Bhakti Kulkarni,Male,Aurangabad,Cyber Security,10-02-2025,55000,Feb-25,Completed,08-05-2025 00:00,Placed,Infosys,6.3
+S0159,Meera Rane,Male,Mumbai,Data Analytics,04-10-2025,45000,Oct-25,Ongoing,,,,
+S0160,Anjali Chavan,Female,Nashik,Digital Marketing,17-11-2024,35000,Nov-24,Dropped,,,,
+S0161,Sneha Deshmukh,Female,Nashik,Digital Marketing,22-06-2025,35000,Jun-25,Ongoing,,,,
+S0162,Aditi Jadhav,Female,Pune,Data Analytics,14-01-2025,45000,Jan-25,Completed,29-03-2025 00:00,Placed,TCS,7
+S0163,Yash Kulkarni,Male,Nashik,Data Analytics,25-09-2024,45000,Sep-24,Completed,11-12-2024 00:00,Placed,TCS,6.7
+S0164,Vikram Kulkarni,Female,Mumbai,UI/UX Design,02-04-2024,30000,Apr-24,Ongoing,,,,
+S0165,Isha Naik,Male,Nashik,Full Stack Development,24-02-2024,50000,Feb-24,Completed,13-06-2024 00:00,Placed,TCS,6.5
+S0166,Nikhil Sharma,Female,Pune,Full Stack Development,21-05-2025,50000,May-25,Completed,29-08-2025 00:00,Not Placed,,
+S0167,Harsh Shinde,Female,Mumbai,UI/UX Design,20-02-2025,30000,Feb-25,Completed,05-06-2025 00:00,Not Placed,,
+S0168,Meera Patil,Male,Pune,UI/UX Design,17-02-2025,30000,Feb-25,Ongoing,,,,
+S0169,Aditi Kale,Male,Pune,UI/UX Design,05-06-2025,30000,Jun-25,Completed,05-08-2025 00:00,Not Placed,,
+S0170,Neha Deshmukh,Male,Mumbai,Data Analytics,10-10-2025,45000,Oct-25,Dropped,,,,
+S0171,Priya Naik,Female,Nashik,Cyber Security,12-12-2025,55000,Dec-25,Completed,05-04-2026 00:00,Placed,Capgemini,3.9
+S0172,Priya Verma,Female,Nashik,Digital Marketing,04-02-2024,35000,Feb-24,Ongoing,,,,
+S0173,Aditi Sharma,Female,Nashik,Cyber Security,05-05-2024,55000,May-24,Completed,16-07-2024 00:00,Placed,Accenture,6.9
+S0174,Arjun Pawar,Male,Nagpur,Cyber Security,23-12-2024,55000,Dec-24,Completed,17-04-2025 00:00,Not Placed,,
+S0175,Priya Sharma,Female,Mumbai,Digital Marketing,28-06-2025,35000,Jun-25,Ongoing,,,,
+S0176,Neha Jadhav,Male,Mumbai,Digital Marketing,25-04-2024,35000,Apr-24,Completed,27-06-2024 00:00,Placed,Capgemini,7.6
+S0177,Kavya Shinde,Male,Aurangabad,UI/UX Design,18-08-2024,30000,Aug-24,Completed,31-10-2024 00:00,Not Placed,,
+S0178,Kunal Deshmukh,Male,Aurangabad,UI/UX Design,04-06-2025,30000,Jun-25,Completed,01-10-2025 00:00,Placed,Wipro,5.4
+S0179,Kunal Jadhav,Male,Mumbai,Data Analytics,29-05-2024,45000,May-24,Completed,29-07-2024 00:00,Not Placed,,
+S0180,Bhakti Kulkarni,Female,Nashik,Data Analytics,27-01-2024,45000,Jan-24,Ongoing,,,,
+S0181,Isha Yadav,Male,Nagpur,Data Analytics,07-10-2024,45000,Oct-24,Completed,23-01-2025 00:00,Placed,Wipro,5.5
+S0182,Harsh Kulkarni,Male,Nashik,Full Stack Development,09-07-2024,50000,Jul-24,Ongoing,,,,
+S0183,Omkar Mehta,Male,Pune,Data Analytics,06-01-2024,45000,Jan-24,Dropped,,,,
+S0184,Nikhil Gupta,Female,Nashik,Digital Marketing,17-09-2025,35000,Sep-25,Dropped,,,,
+S0185,Aditi Rane,Male,Mumbai,Digital Marketing,29-06-2024,35000,Jun-24,Completed,09-09-2024 00:00,Not Placed,,
+S0186,Harsh Sharma,Female,Pune,Full Stack Development,13-08-2025,50000,Aug-25,Ongoing,,,,
+S0187,Pratik Yadav,Male,Nashik,UI/UX Design,09-09-2025,30000,Sep-25,Ongoing,,,,
+S0188,Amit Kulkarni,Male,Mumbai,Full Stack Development,29-05-2024,50000,May-24,Dropped,,,,
+S0189,Pooja More,Male,Mumbai,Data Analytics,21-07-2025,45000,Jul-25,Completed,30-10-2025 00:00,Placed,Wipro,4.8
+S0190,Neha More,Male,Mumbai,Digital Marketing,13-11-2025,35000,Nov-25,Ongoing,,,,
+S0191,Rohit Naik,Male,Aurangabad,Cyber Security,10-01-2024,55000,Jan-24,Completed,27-04-2024 00:00,Not Placed,,
+S0192,Swati Verma,Female,Pune,UI/UX Design,10-10-2024,30000,Oct-24,Completed,17-01-2025 00:00,Not Placed,,
+S0193,Riya Verma,Female,Nashik,Data Analytics,27-03-2024,45000,Mar-24,Completed,13-07-2024 00:00,Not Placed,,
+S0194,Isha Verma,Male,Nashik,UI/UX Design,17-05-2025,30000,May-25,Ongoing,,,,
+S0195,Priya Naik,Female,Nashik,Digital Marketing,30-11-2024,35000,Nov-24,Ongoing,,,,
+S0196,Tanvi Kulkarni,Male,Aurangabad,Data Analytics,05-03-2024,45000,Mar-24,Completed,21-05-2024 00:00,Not Placed,,
+S0197,Swati Sharma,Male,Aurangabad,Cyber Security,10-12-2025,55000,Dec-25,Completed,26-03-2026 00:00,Not Placed,,
+S0198,Kavya Deshmukh,Male,Aurangabad,UI/UX Design,11-11-2024,30000,Nov-24,Ongoing,,,,
+S0199,Rahul Chavan,Male,Pune,UI/UX Design,29-08-2024,30000,Aug-24,Dropped,,,,
+S0200,Priya Pawar,Female,Aurangabad,Cyber Security,27-12-2024,55000,Dec-24,Ongoing,,,,
+S0201,Tanvi Verma,Female,Nagpur,Full Stack Development,22-11-2024,50000,Nov-24,Ongoing,,,,
+S0202,Riya Sawant,Female,Nashik,Cyber Security,23-05-2025,55000,May-25,Ongoing,,,,
+S0203,Arjun Verma,Female,Aurangabad,Data Analytics,31-07-2024,45000,Jul-24,Completed,10-10-2024 00:00,Not Placed,,
+S0204,Neha Mehta,Female,Aurangabad,Cyber Security,26-09-2025,55000,Sep-25,Ongoing,,,,
+S0205,Kavya Deshmukh,Female,Nashik,Digital Marketing,03-02-2025,35000,Feb-25,Completed,13-04-2025 00:00,Not Placed,,
+S0206,Nikhil Kale,Male,Aurangabad,Full Stack Development,16-04-2024,50000,Apr-24,Completed,27-07-2024 00:00,Not Placed,,
+S0207,Aditya Verma,Female,Nashik,Full Stack Development,08-02-2025,50000,Feb-25,Completed,12-04-2025 00:00,Placed,TCS,4.3
+S0208,Priya Chavan,Female,Nagpur,Digital Marketing,06-08-2024,35000,Aug-24,Completed,24-10-2024 00:00,Placed,Capgemini,6.5
+S0209,Priya Naik,Female,Mumbai,UI/UX Design,19-05-2025,30000,May-25,Completed,18-08-2025 00:00,Not Placed,,
+S0210,Tanvi Mishra,Female,Nashik,Digital Marketing,26-08-2024,35000,Aug-24,Completed,21-11-2024 00:00,Not Placed,,
+S0211,Sneha Patil,Male,Mumbai,Cyber Security,21-11-2025,55000,Nov-25,Completed,22-01-2026 00:00,Placed,Capgemini,4
+S0212,Aditya Chavan,Female,Mumbai,UI/UX Design,27-02-2025,30000,Feb-25,Dropped,,,,
+S0213,Neha Jadhav,Male,Aurangabad,Data Analytics,16-08-2025,45000,Aug-25,Completed,24-11-2025 00:00,Placed,Accenture,6.7
+S0214,Rahul Gupta,Male,Pune,Cyber Security,25-05-2025,55000,May-25,Completed,24-08-2025 00:00,Placed,Wipro,3.3
+S0215,Priya Sharma,Female,Aurangabad,Data Analytics,06-06-2024,45000,Jun-24,Completed,02-09-2024 00:00,Placed,Capgemini,6.5
+S0216,Priya Shinde,Female,Aurangabad,Full Stack Development,14-11-2024,50000,Nov-24,Completed,22-01-2025 00:00,Placed,Wipro,5.8
+S0217,Aditya Jadhav,Male,Mumbai,UI/UX Design,27-04-2024,30000,Apr-24,Completed,08-08-2024 00:00,Placed,Accenture,4.4
+S0218,Yash Mishra,Male,Aurangabad,Full Stack Development,09-11-2024,50000,Nov-24,Dropped,,,,
+S0219,Anjali More,Female,Aurangabad,UI/UX Design,03-10-2024,30000,Oct-24,Ongoing,,,,
+S0220,Vikram Gupta,Male,Aurangabad,Cyber Security,11-12-2024,55000,Dec-24,Ongoing,,,,
+S0221,Pratik Pawar,Female,Pune,Digital Marketing,01-03-2025,35000,Mar-25,Completed,17-05-2025 00:00,Not Placed,,
+S0222,Isha Rane,Female,Nashik,Digital Marketing,08-03-2024,35000,Mar-24,Ongoing,,,,
+S0223,Nikhil Naik,Male,Mumbai,Cyber Security,12-09-2025,55000,Sep-25,Completed,02-01-2026 00:00,Placed,Capgemini,5.8
+S0224,Neha Mishra,Male,Nagpur,Cyber Security,08-09-2025,55000,Sep-25,Completed,27-12-2025 00:00,Placed,Accenture,4.3
+S0225,Nikhil Yadav,Male,Aurangabad,Cyber Security,11-05-2025,55000,May-25,Completed,28-08-2025 00:00,Placed,Accenture,5.9
+S0226,Rohit Shinde,Female,Mumbai,UI/UX Design,18-10-2025,30000,Oct-25,Completed,12-01-2026 00:00,Placed,TCS,4.3
+S0227,Omkar Sharma,Female,Nagpur,Full Stack Development,09-12-2025,50000,Dec-25,Ongoing,,,,
+S0228,Omkar Sawant,Female,Mumbai,Full Stack Development,16-04-2024,50000,Apr-24,Completed,09-08-2024 00:00,Not Placed,,
+S0229,Meera Jadhav,Male,Mumbai,Cyber Security,30-09-2025,55000,Sep-25,Ongoing,,,,
+S0230,Priya Singh,Female,Pune,Cyber Security,05-11-2024,55000,Nov-24,Ongoing,,,,
+S0231,Yash Naik,Male,Nagpur,Data Analytics,19-09-2024,45000,Sep-24,Completed,09-01-2025 00:00,Not Placed,,
+S0232,Aditya Chavan,Female,Nagpur,Cyber Security,26-02-2024,55000,Feb-24,Dropped,,,,
+S0233,Amit Mehta,Female,Mumbai,Full Stack Development,11-06-2025,50000,Jun-25,Completed,06-10-2025 00:00,Placed,Capgemini,5.4
+S0234,Manish Joshi,Male,Mumbai,Cyber Security,27-07-2024,55000,Jul-24,Completed,27-09-2024 00:00,Not Placed,,
+S0235,Shruti Kale,Male,Nashik,Digital Marketing,03-04-2024,35000,Apr-24,Dropped,,,,
+S0236,Riya Singh,Male,Mumbai,UI/UX Design,21-07-2024,30000,Jul-24,Ongoing,,,,
+S0237,Shruti Kulkarni,Female,Pune,Cyber Security,22-07-2025,55000,Jul-25,Ongoing,,,,
+S0238,Yash Gupta,Male,Mumbai,Full Stack Development,07-10-2024,50000,Oct-24,Completed,15-12-2024 00:00,Placed,Wipro,7.3
+S0239,Sneha Chavan,Female,Nagpur,Data Analytics,22-09-2025,45000,Sep-25,Completed,29-11-2025 00:00,Placed,Capgemini,7.3
+S0240,Pooja Chavan,Male,Nashik,Full Stack Development,31-05-2025,50000,May-25,Completed,08-08-2025 00:00,Placed,Infosys,3.4
+S0241,Aditya Sharma,Female,Mumbai,Full Stack Development,26-04-2025,50000,Apr-25,Completed,03-07-2025 00:00,Placed,Accenture,7.7
+S0242,Tanvi Pawar,Female,Aurangabad,UI/UX Design,10-10-2025,30000,Oct-25,Completed,14-12-2025 00:00,Not Placed,,
+S0243,Harsh Sawant,Female,Nagpur,Digital Marketing,24-07-2024,35000,Jul-24,Dropped,,,,
+S0244,Pooja Sharma,Female,Aurangabad,UI/UX Design,11-05-2024,30000,May-24,Dropped,,,,
+S0245,Yash Kale,Female,Mumbai,UI/UX Design,06-07-2025,30000,Jul-25,Completed,11-09-2025 00:00,Placed,TCS,3.9
+S0246,Manish Gupta,Female,Mumbai,Cyber Security,18-01-2024,55000,Jan-24,Completed,07-04-2024 00:00,Placed,Accenture,6.5
+S0247,Nikhil Naik,Female,Mumbai,Cyber Security,24-03-2025,55000,Mar-25,Ongoing,,,,
+S0248,Neha Mishra,Female,Nashik,UI/UX Design,13-05-2024,30000,May-24,Ongoing,,,,
+S0249,Meera Rane,Female,Nashik,UI/UX Design,12-10-2025,30000,Oct-25,Completed,24-01-2026 00:00,Placed,TCS,3
+S0250,Bhakti Sharma,Female,Mumbai,UI/UX Design,20-04-2025,30000,Apr-25,Ongoing,,,,
+S0251,Amit Mehta,Male,Aurangabad,Cyber Security,04-12-2025,55000,Dec-25,Ongoing,,,,
+S0252,Manish Mishra,Male,Mumbai,Full Stack Development,16-06-2024,50000,Jun-24,Completed,07-10-2024 00:00,Not Placed,,
+S0253,Sagar Kulkarni,Male,Aurangabad,Cyber Security,27-04-2025,55000,Apr-25,Completed,26-06-2025 00:00,Placed,Infosys,3.3
+S0254,Tejas Kale,Female,Nagpur,UI/UX Design,11-06-2025,30000,Jun-25,Dropped,,,,
+S0255,Neha Kulkarni,Female,Nagpur,Cyber Security,17-07-2025,55000,Jul-25,Ongoing,,,,
+S0256,Anjali Yadav,Male,Nagpur,UI/UX Design,11-04-2025,30000,Apr-25,Completed,19-07-2025 00:00,Placed,Accenture,5.7
+S0257,Arjun Rane,Female,Mumbai,Cyber Security,18-12-2024,55000,Dec-24,Completed,07-03-2025 00:00,Placed,Wipro,5.3
+S0258,Manish Deshmukh,Male,Pune,Cyber Security,26-01-2025,55000,Jan-25,Completed,22-05-2025 00:00,Placed,Accenture,5
+S0259,Arjun Singh,Female,Mumbai,Full Stack Development,25-06-2024,50000,Jun-24,Completed,24-09-2024 00:00,Placed,Wipro,5.1
+S0260,Anjali Joshi,Female,Aurangabad,Data Analytics,16-07-2025,45000,Jul-25,Completed,24-09-2025 00:00,Not Placed,,
+S0261,Vikram Chavan,Male,Mumbai,Cyber Security,02-09-2024,55000,Sep-24,Ongoing,,,,
+S0262,Pratik Kulkarni,Female,Mumbai,UI/UX Design,28-02-2025,30000,Feb-25,Ongoing,,,,
+S0263,Pooja Pawar,Female,Nagpur,Digital Marketing,06-04-2024,35000,Apr-24,Ongoing,,,,
+S0264,Amit Yadav,Male,Nagpur,Digital Marketing,22-06-2025,35000,Jun-25,Completed,25-09-2025 00:00,Not Placed,,
+S0265,Neha Mehta,Female,Pune,Data Analytics,11-09-2024,45000,Sep-24,Dropped,,,,
+S0266,Kunal More,Male,Pune,Digital Marketing,05-07-2024,35000,Jul-24,Ongoing,,,,
+S0267,Neha Mehta,Male,Aurangabad,Digital Marketing,20-06-2024,35000,Jun-24,Ongoing,,,,
+S0268,Meera Yadav,Male,Mumbai,Full Stack Development,20-12-2025,50000,Dec-25,Completed,17-04-2026 00:00,Placed,Infosys,3.3
+S0269,Pooja Mishra,Male,Aurangabad,Full Stack Development,22-03-2024,50000,Mar-24,Completed,24-06-2024 00:00,Not Placed,,
+S0270,Kunal Mishra,Male,Pune,Cyber Security,07-05-2025,55000,May-25,Completed,04-08-2025 00:00,Not Placed,,
+S0271,Rahul Chavan,Female,Mumbai,Cyber Security,30-10-2024,55000,Oct-24,Completed,25-01-2025 00:00,Placed,Infosys,7.5
+S0272,Bhakti Naik,Female,Aurangabad,Data Analytics,08-11-2024,45000,Nov-24,Completed,02-03-2025 00:00,Placed,Capgemini,6.7
+S0273,Yash Sawant,Female,Pune,UI/UX Design,24-11-2025,30000,Nov-25,Dropped,,,,
+S0274,Nikhil Rane,Male,Nashik,Data Analytics,16-12-2024,45000,Dec-24,Completed,07-03-2025 00:00,Not Placed,,
+S0275,Shruti Kale,Female,Mumbai,Full Stack Development,15-04-2024,50000,Apr-24,Ongoing,,,,
+S0276,Kunal Rane,Female,Nagpur,UI/UX Design,09-07-2024,30000,Jul-24,Completed,07-10-2024 00:00,Not Placed,,
+S0277,Kavya Verma,Female,Nagpur,Cyber Security,23-02-2024,55000,Feb-24,Completed,02-05-2024 00:00,Placed,Wipro,7.2
+S0278,Pooja Chavan,Female,Nagpur,UI/UX Design,07-02-2024,30000,Feb-24,Dropped,,,,
+S0279,Arjun Mehta,Female,Aurangabad,UI/UX Design,27-12-2024,30000,Dec-24,Completed,29-03-2025 00:00,Placed,Infosys,5.8
+S0280,Riya Kulkarni,Female,Nashik,UI/UX Design,04-04-2024,30000,Apr-24,Dropped,,,,
+S0281,Anjali Rane,Female,Pune,Full Stack Development,01-11-2024,50000,Nov-24,Completed,14-01-2025 00:00,Placed,Capgemini,5
+S0282,Komal Gupta,Female,Pune,UI/UX Design,27-02-2024,30000,Feb-24,Ongoing,,,,
+S0283,Amit Kulkarni,Male,Mumbai,UI/UX Design,03-02-2024,30000,Feb-24,Completed,05-04-2024 00:00,Placed,TCS,6.7
+S0284,Komal Mishra,Female,Nagpur,Full Stack Development,28-10-2024,50000,Oct-24,Completed,07-01-2025 00:00,Not Placed,,
+S0285,Komal Jadhav,Male,Nashik,Digital Marketing,12-04-2025,35000,Apr-25,Ongoing,,,,
+S0286,Sagar Kulkarni,Female,Nashik,UI/UX Design,31-05-2024,30000,May-24,Dropped,,,,
+S0287,Vikram Sawant,Male,Nashik,Data Analytics,26-04-2024,45000,Apr-24,Completed,14-08-2024 00:00,Not Placed,,
+S0288,Rohit Gupta,Female,Aurangabad,Digital Marketing,31-07-2025,35000,Jul-25,Dropped,,,,
+S0289,Sneha Mishra,Male,Nashik,UI/UX Design,31-07-2024,30000,Jul-24,Ongoing,,,,
+S0290,Manish Joshi,Female,Mumbai,Cyber Security,20-12-2025,55000,Dec-25,Completed,02-04-2026 00:00,Placed,Infosys,4.3
+S0291,Vikram Verma,Female,Nashik,Cyber Security,05-07-2025,55000,Jul-25,Completed,18-09-2025 00:00,Placed,Infosys,4.8
+S0292,Priya Kale,Female,Mumbai,Digital Marketing,13-03-2025,35000,Mar-25,Ongoing,,,,
+S0293,Bhakti Kulkarni,Male,Nagpur,Digital Marketing,17-04-2024,35000,Apr-24,Ongoing,,,,
+S0294,Amit Yadav,Male,Pune,Digital Marketing,18-04-2025,35000,Apr-25,Ongoing,,,,
+S0295,Shruti Naik,Female,Pune,UI/UX Design,29-05-2025,30000,May-25,Ongoing,,,,
+S0296,Nikhil Yadav,Male,Mumbai,Digital Marketing,30-05-2025,35000,May-25,Completed,17-08-2025 00:00,Placed,TCS,4.5
+S0297,Tanvi Pawar,Female,Nagpur,Data Analytics,14-04-2024,45000,Apr-24,Ongoing,,,,
+S0298,Meera Singh,Male,Mumbai,Data Analytics,03-12-2025,45000,Dec-25,Completed,14-03-2026 00:00,Placed,Capgemini,5.6
+S0299,Anjali Shinde,Female,Nashik,Digital Marketing,12-11-2025,35000,Nov-25,Completed,26-01-2026 00:00,Placed,Accenture,6.7
+S0300,Tejas Naik,Female,Pune,UI/UX Design,28-05-2024,30000,May-24,Completed,08-09-2024 00:00,Placed,TCS,6
+S0301,Sagar Rane,Male,Aurangabad,Digital Marketing,02-03-2025,35000,Mar-25,Ongoing,,,,
+S0302,Anjali Naik,Female,Pune,Cyber Security,27-09-2024,55000,Sep-24,Ongoing,,,,
+S0303,Priya Joshi,Male,Aurangabad,Cyber Security,15-03-2024,55000,Mar-24,Completed,16-06-2024 00:00,Placed,Wipro,6.6
+S0304,Shruti Gupta,Male,Mumbai,UI/UX Design,16-05-2024,30000,May-24,Ongoing,,,,
+S0305,Neha Verma,Male,Pune,UI/UX Design,04-05-2024,30000,May-24,Ongoing,,,,
+S0306,Rohit Mehta,Male,Mumbai,Cyber Security,20-06-2024,55000,Jun-24,Ongoing,,,,
+S0307,Rahul Pawar,Male,Nashik,Digital Marketing,07-01-2025,35000,Jan-25,Completed,28-03-2025 00:00,Placed,Accenture,7.9
+S0308,Aditya Mishra,Female,Aurangabad,Digital Marketing,28-08-2024,35000,Aug-24,Completed,20-12-2024 00:00,Not Placed,,
+S0309,Yash Mishra,Male,Mumbai,Cyber Security,04-06-2025,55000,Jun-25,Completed,07-08-2025 00:00,Placed,Capgemini,4.1
+S0310,Priya Jadhav,Female,Nashik,UI/UX Design,29-04-2024,30000,Apr-24,Completed,28-06-2024 00:00,Not Placed,,
+S0311,Manish Joshi,Female,Mumbai,Data Analytics,13-06-2025,45000,Jun-25,Completed,14-09-2025 00:00,Placed,Wipro,6.3
+S0312,Swati Patil,Female,Nagpur,Digital Marketing,13-02-2024,35000,Feb-24,Completed,30-04-2024 00:00,Placed,Wipro,3.3
+S0313,Priya Patil,Female,Pune,Cyber Security,14-10-2025,55000,Oct-25,Completed,08-01-2026 00:00,Placed,TCS,7.6
+S0314,Sagar Patil,Female,Pune,Cyber Security,26-06-2024,55000,Jun-24,Completed,27-08-2024 00:00,Placed,Accenture,4
+S0315,Shruti Shinde,Female,Aurangabad,Full Stack Development,17-03-2025,50000,Mar-25,Ongoing,,,,
+S0316,Arjun Sawant,Female,Pune,UI/UX Design,13-05-2024,30000,May-24,Completed,26-08-2024 00:00,Placed,Infosys,6.2
+S0317,Sneha Chavan,Male,Nashik,Data Analytics,27-02-2025,45000,Feb-25,Completed,30-04-2025 00:00,Placed,Accenture,3.5
+S0318,Riya More,Male,Nashik,Data Analytics,11-05-2025,45000,May-25,Ongoing,,,,
+S0319,Tanvi Joshi,Female,Mumbai,Digital Marketing,25-02-2025,35000,Feb-25,Ongoing,,,,
+S0320,Pratik Joshi,Female,Mumbai,Full Stack Development,27-11-2025,50000,Nov-25,Ongoing,,,,
+S0321,Isha Mishra,Female,Nagpur,UI/UX Design,10-08-2025,30000,Aug-25,Completed,30-11-2025 00:00,Placed,Wipro,4
+S0322,Harsh Kale,Female,Nagpur,Digital Marketing,17-12-2024,35000,Dec-24,Ongoing,,,,
+S0323,Neha Jadhav,Male,Mumbai,Digital Marketing,05-12-2025,35000,Dec-25,Completed,09-03-2026 00:00,Not Placed,,
+S0324,Neha Sawant,Female,Nagpur,UI/UX Design,27-03-2024,30000,Mar-24,Completed,18-07-2024 00:00,Not Placed,,
+S0325,Vikram Joshi,Male,Pune,UI/UX Design,26-02-2024,30000,Feb-24,Completed,05-05-2024 00:00,Placed,Infosys,3.8
+S0326,Pratik Pawar,Female,Nashik,Data Analytics,17-03-2025,45000,Mar-25,Ongoing,,,,
+S0327,Meera Chavan,Male,Pune,Full Stack Development,19-04-2025,50000,Apr-25,Completed,24-07-2025 00:00,Not Placed,,
+S0328,Isha Rane,Male,Pune,UI/UX Design,10-03-2024,30000,Mar-24,Completed,31-05-2024 00:00,Placed,Wipro,5.6
+S0329,Sneha Yadav,Male,Aurangabad,Data Analytics,02-04-2024,45000,Apr-24,Dropped,,,,
+S0330,Rahul Mishra,Male,Aurangabad,Cyber Security,26-06-2024,55000,Jun-24,Dropped,,,,
+S0331,Meera Deshmukh,Male,Nagpur,Data Analytics,21-11-2024,45000,Nov-24,Ongoing,,,,
+S0332,Aditi Pawar,Male,Mumbai,Cyber Security,02-05-2025,55000,May-25,Completed,09-08-2025 00:00,Placed,Capgemini,3.4
+S0333,Rahul Joshi,Male,Nagpur,Full Stack Development,16-04-2024,50000,Apr-24,Completed,03-08-2024 00:00,Not Placed,,
+S0334,Nikhil Mishra,Female,Nagpur,UI/UX Design,19-06-2024,30000,Jun-24,Completed,14-09-2024 00:00,Placed,TCS,7.3
+S0335,Riya Patil,Male,Nagpur,Digital Marketing,09-04-2025,35000,Apr-25,Completed,14-07-2025 00:00,Not Placed,,
+S0336,Arjun Singh,Male,Mumbai,UI/UX Design,06-11-2024,30000,Nov-24,Completed,24-01-2025 00:00,Placed,TCS,5.8
+S0337,Arjun Chavan,Female,Mumbai,Cyber Security,12-03-2024,55000,Mar-24,Completed,20-05-2024 00:00,Placed,Accenture,5.1
+S0338,Aditi More,Female,Nagpur,Cyber Security,29-08-2024,55000,Aug-24,Completed,21-12-2024 00:00,Not Placed,,
+S0339,Rohit More,Female,Pune,UI/UX Design,11-05-2024,30000,May-24,Completed,17-07-2024 00:00,Not Placed,,
+S0340,Isha Verma,Female,Mumbai,Cyber Security,01-12-2025,55000,Dec-25,Completed,10-02-2026 00:00,Not Placed,,
+S0341,Tanvi Yadav,Male,Nagpur,Data Analytics,12-08-2025,45000,Aug-25,Ongoing,,,,
+S0342,Komal Sharma,Female,Nashik,UI/UX Design,11-05-2025,30000,May-25,Dropped,,,,
+S0343,Aditya Naik,Male,Pune,Full Stack Development,07-04-2024,50000,Apr-24,Ongoing,,,,
+S0344,Swati Joshi,Female,Pune,UI/UX Design,12-10-2024,30000,Oct-24,Ongoing,,,,
+S0345,Vikram Mehta,Male,Mumbai,Full Stack Development,11-12-2024,50000,Dec-24,Ongoing,,,,
+S0346,Kunal More,Female,Aurangabad,Cyber Security,29-09-2024,55000,Sep-24,Ongoing,,,,
+S0347,Swati More,Female,Aurangabad,Data Analytics,18-10-2024,45000,Oct-24,Completed,16-01-2025 00:00,Placed,TCS,4.1
+S0348,Tejas Kulkarni,Male,Pune,Cyber Security,13-08-2024,55000,Aug-24,Ongoing,,,,
+S0349,Riya Deshmukh,Male,Pune,UI/UX Design,12-05-2025,30000,May-25,Completed,06-09-2025 00:00,Placed,Capgemini,3.8
+S0350,Anjali Kulkarni,Female,Mumbai,UI/UX Design,29-08-2024,30000,Aug-24,Ongoing,,,,
+S0351,Tanvi Singh,Male,Nagpur,Data Analytics,02-03-2025,45000,Mar-25,Ongoing,,,,
+S0352,Tejas Mehta,Female,Mumbai,Digital Marketing,16-03-2024,35000,Mar-24,Completed,11-07-2024 00:00,Placed,Capgemini,3.8
+S0353,Tejas More,Male,Aurangabad,Full Stack Development,06-03-2024,50000,Mar-24,Dropped,,,,
+S0354,Swati Kale,Female,Aurangabad,Full Stack Development,23-09-2025,50000,Sep-25,Ongoing,,,,
+S0355,Meera Rane,Male,Mumbai,Cyber Security,20-09-2024,55000,Sep-24,Completed,15-01-2025 00:00,Placed,Capgemini,7.9
+S0356,Manish Deshmukh,Female,Mumbai,Data Analytics,10-08-2025,45000,Aug-25,Completed,27-10-2025 00:00,Placed,Accenture,3.4
+S0357,Komal Sharma,Female,Aurangabad,Digital Marketing,03-10-2024,35000,Oct-24,Ongoing,,,,
+S0358,Kunal Kulkarni,Female,Nashik,Data Analytics,16-12-2025,45000,Dec-25,Ongoing,,,,
+S0359,Aditi Mehta,Female,Mumbai,UI/UX Design,14-02-2025,30000,Feb-25,Completed,09-06-2025 00:00,Placed,Wipro,4.1
+S0360,Isha Mishra,Female,Nagpur,Data Analytics,21-04-2025,45000,Apr-25,Dropped,,,,
+S0361,Nikhil Jadhav,Female,Aurangabad,Full Stack Development,03-02-2024,50000,Feb-24,Completed,06-05-2024 00:00,Not Placed,,
+S0362,Sneha Joshi,Male,Mumbai,Full Stack Development,16-05-2025,50000,May-25,Completed,21-07-2025 00:00,Placed,Capgemini,5.3
+S0363,Kunal Kulkarni,Male,Nagpur,UI/UX Design,02-01-2025,30000,Jan-25,Completed,04-04-2025 00:00,Placed,Wipro,6.2
+S0364,Anjali Mehta,Male,Nagpur,Digital Marketing,07-03-2025,35000,Mar-25,Ongoing,,,,
+S0365,Arjun Mehta,Female,Nagpur,Full Stack Development,02-02-2024,50000,Feb-24,Ongoing,,,,
+S0366,Priya Rane,Female,Pune,Data Analytics,09-11-2024,45000,Nov-24,Completed,27-01-2025 00:00,Placed,Accenture,6.1
+S0367,Shruti Mishra,Male,Aurangabad,Full Stack Development,11-01-2024,50000,Jan-24,Ongoing,,,,
+S0368,Komal Deshmukh,Female,Pune,UI/UX Design,16-04-2025,30000,Apr-25,Ongoing,,,,
+S0369,Bhakti Mishra,Male,Aurangabad,UI/UX Design,12-05-2025,30000,May-25,Ongoing,,,,
+S0370,Omkar Kulkarni,Female,Nashik,Full Stack Development,29-03-2025,50000,Mar-25,Ongoing,,,,
+S0371,Rahul Mehta,Female,Mumbai,UI/UX Design,31-08-2025,30000,Aug-25,Completed,25-12-2025 00:00,Not Placed,,
+S0372,Arjun Sawant,Female,Mumbai,UI/UX Design,29-09-2024,30000,Sep-24,Completed,14-12-2024 00:00,Placed,Accenture,5.2
+S0373,Pooja Verma,Female,Mumbai,Cyber Security,03-01-2025,55000,Jan-25,Completed,12-03-2025 00:00,Placed,Infosys,3
+S0374,Tanvi Mehta,Female,Nashik,Cyber Security,23-12-2025,55000,Dec-25,Ongoing,,,,
+S0375,Vikram Shinde,Female,Mumbai,Digital Marketing,29-08-2025,35000,Aug-25,Ongoing,,,,
+S0376,Nikhil Rane,Female,Pune,Data Analytics,14-08-2025,45000,Aug-25,Completed,01-12-2025 00:00,Placed,TCS,5
+S0377,Isha More,Female,Mumbai,Digital Marketing,03-08-2024,35000,Aug-24,Completed,12-10-2024 00:00,Placed,Infosys,7.6
+S0378,Pratik Pawar,Male,Nagpur,Cyber Security,03-12-2024,55000,Dec-24,Completed,15-03-2025 00:00,Placed,Wipro,3.4
+S0379,Aditya Patil,Female,Pune,Cyber Security,11-12-2024,55000,Dec-24,Completed,10-04-2025 00:00,Not Placed,,
+S0380,Sagar More,Male,Pune,Full Stack Development,04-09-2024,50000,Sep-24,Completed,19-11-2024 00:00,Placed,Capgemini,6
+S0381,Rohit Kulkarni,Female,Aurangabad,Full Stack Development,10-04-2025,50000,Apr-25,Ongoing,,,,
+S0382,Komal Sawant,Male,Mumbai,UI/UX Design,02-07-2025,30000,Jul-25,Ongoing,,,,
+S0383,Aditi Naik,Male,Aurangabad,Data Analytics,12-09-2024,45000,Sep-24,Completed,02-12-2024 00:00,Placed,TCS,3.4
+S0384,Omkar Singh,Male,Pune,UI/UX Design,16-02-2025,30000,Feb-25,Ongoing,,,,
+S0385,Priya Kale,Male,Aurangabad,Full Stack Development,14-08-2024,50000,Aug-24,Completed,29-11-2024 00:00,Not Placed,,
+S0386,Omkar Kale,Female,Aurangabad,Full Stack Development,27-02-2025,50000,Feb-25,Ongoing,,,,
+S0387,Yash Mishra,Male,Aurangabad,Cyber Security,03-04-2025,55000,Apr-25,Completed,22-07-2025 00:00,Placed,Accenture,8
+S0388,Swati Mehta,Male,Nagpur,Digital Marketing,06-07-2025,35000,Jul-25,Completed,13-10-2025 00:00,Placed,Capgemini,6
+S0389,Pratik Mehta,Male,Mumbai,Data Analytics,17-01-2025,45000,Jan-25,Completed,20-04-2025 00:00,Not Placed,,
+S0390,Kunal Sharma,Female,Pune,UI/UX Design,17-01-2024,30000,Jan-24,Ongoing,,,,
+S0391,Shruti Gupta,Female,Nagpur,Cyber Security,10-07-2024,55000,Jul-24,Completed,29-10-2024 00:00,Not Placed,,
+S0392,Priya Deshmukh,Female,Nashik,Digital Marketing,15-06-2025,35000,Jun-25,Completed,27-09-2025 00:00,Placed,TCS,6.5
+S0393,Tejas Mehta,Female,Aurangabad,Digital Marketing,20-06-2025,35000,Jun-25,Completed,27-09-2025 00:00,Not Placed,,
+S0394,Meera Gupta,Female,Aurangabad,Full Stack Development,15-12-2025,50000,Dec-25,Ongoing,,,,
+S0395,Harsh Mehta,Female,Aurangabad,Cyber Security,25-05-2025,55000,May-25,Completed,04-08-2025 00:00,Placed,Wipro,6.7
+S0396,Manish Pawar,Male,Mumbai,Full Stack Development,11-11-2025,50000,Nov-25,Completed,11-01-2026 00:00,Not Placed,,
+S0397,Omkar Chavan,Female,Mumbai,Full Stack Development,10-08-2025,50000,Aug-25,Ongoing,,,,
+S0398,Bhakti Joshi,Female,Aurangabad,Digital Marketing,01-02-2024,35000,Feb-24,Completed,30-05-2024 00:00,Placed,Infosys,7
+S0399,Omkar Yadav,Female,Aurangabad,Digital Marketing,16-05-2024,35000,May-24,Completed,21-07-2024 00:00,Placed,Infosys,7.6
+S0400,Pratik Singh,Male,Pune,Cyber Security,01-09-2024,55000,Sep-24,Completed,31-10-2024 00:00,Not Placed,,
+S0401,Sagar Verma,Male,Nagpur,Data Analytics,23-07-2025,45000,Jul-25,Dropped,,,,
+S0402,Arjun Pawar,Male,Pune,UI/UX Design,16-07-2024,30000,Jul-24,Completed,16-10-2024 00:00,Placed,TCS,3.8
+S0403,Komal Mishra,Female,Aurangabad,Cyber Security,02-10-2025,55000,Oct-25,Ongoing,,,,
+S0404,Pratik Gupta,Female,Aurangabad,Cyber Security,12-12-2025,55000,Dec-25,Ongoing,,,,
+S0405,Tanvi Rane,Female,Pune,Digital Marketing,12-05-2025,35000,May-25,Completed,21-07-2025 00:00,Placed,Wipro,3.1
+S0406,Sagar Jadhav,Female,Pune,UI/UX Design,24-08-2025,30000,Aug-25,Ongoing,,,,
+S0407,Shruti Jadhav,Male,Pune,Digital Marketing,05-05-2024,35000,May-24,Completed,08-08-2024 00:00,Placed,TCS,7.7
+S0408,Harsh Verma,Female,Pune,Full Stack Development,30-04-2024,50000,Apr-24,Completed,14-07-2024 00:00,Placed,Capgemini,4.1
+S0409,Kunal Chavan,Male,Mumbai,Digital Marketing,30-01-2025,35000,Jan-25,Dropped,,,,
+S0410,Arjun Deshmukh,Female,Pune,UI/UX Design,07-07-2024,30000,Jul-24,Completed,11-09-2024 00:00,Placed,Wipro,6.5
+S0411,Omkar Deshmukh,Female,Pune,UI/UX Design,19-03-2025,30000,Mar-25,Completed,16-07-2025 00:00,Not Placed,,
+S0412,Vikram More,Male,Mumbai,Data Analytics,13-11-2025,45000,Nov-25,Completed,01-02-2026 00:00,Placed,TCS,7.6
+S0413,Shruti Deshmukh,Female,Nagpur,Data Analytics,05-02-2025,45000,Feb-25,Completed,29-05-2025 00:00,Placed,Capgemini,5.8
+S0414,Aditi Gupta,Female,Nashik,Data Analytics,18-01-2025,45000,Jan-25,Ongoing,,,,
+S0415,Priya Verma,Female,Mumbai,Digital Marketing,13-11-2025,35000,Nov-25,Completed,14-02-2026 00:00,Placed,Capgemini,7.3
+S0416,Aditi Singh,Female,Pune,Cyber Security,16-03-2025,55000,Mar-25,Dropped,,,,
+S0417,Kavya Sawant,Male,Nashik,Data Analytics,20-02-2025,45000,Feb-25,Ongoing,,,,
+S0418,Omkar Singh,Male,Pune,Data Analytics,16-02-2024,45000,Feb-24,Completed,10-06-2024 00:00,Placed,Infosys,5
+S0419,Rohit Patil,Male,Mumbai,Data Analytics,04-04-2024,45000,Apr-24,Ongoing,,,,
+S0420,Neha Sharma,Female,Mumbai,Data Analytics,22-10-2024,45000,Oct-24,Dropped,,,,
+S0421,Sneha Chavan,Male,Aurangabad,Full Stack Development,02-06-2024,50000,Jun-24,Completed,01-09-2024 00:00,Placed,Accenture,6.4
+S0422,Kunal Gupta,Female,Mumbai,UI/UX Design,19-01-2024,30000,Jan-24,Completed,09-05-2024 00:00,Not Placed,,
+S0423,Meera Mehta,Male,Nagpur,Data Analytics,16-08-2025,45000,Aug-25,Completed,30-11-2025 00:00,Placed,Capgemini,7.6
+S0424,Swati More,Male,Nashik,Data Analytics,24-04-2024,45000,Apr-24,Ongoing,,,,
+S0425,Komal Joshi,Female,Nagpur,UI/UX Design,25-12-2025,30000,Dec-25,Ongoing,,,,
+S0426,Shruti Verma,Male,Nagpur,Data Analytics,15-11-2025,45000,Nov-25,Ongoing,,,,
+S0427,Swati Joshi,Male,Pune,Data Analytics,14-09-2024,45000,Sep-24,Completed,23-11-2024 00:00,Placed,Infosys,6.6
+S0428,Neha More,Male,Nagpur,Digital Marketing,01-02-2025,35000,Feb-25,Ongoing,,,,
+S0429,Komal Singh,Male,Aurangabad,Digital Marketing,26-06-2025,35000,Jun-25,Dropped,,,,
+S0430,Meera Mehta,Female,Nashik,UI/UX Design,02-03-2025,30000,Mar-25,Completed,01-06-2025 00:00,Placed,Wipro,4.2
+S0431,Amit Patil,Female,Nagpur,Digital Marketing,29-02-2024,35000,Feb-24,Completed,21-06-2024 00:00,Not Placed,,
+S0432,Vikram Patil,Female,Nagpur,UI/UX Design,13-06-2024,30000,Jun-24,Completed,22-09-2024 00:00,Placed,Infosys,4.5
+S0433,Sagar Sharma,Female,Pune,UI/UX Design,22-04-2024,30000,Apr-24,Dropped,,,,
+S0434,Arjun Pawar,Male,Nashik,UI/UX Design,04-06-2025,30000,Jun-25,Completed,20-08-2025 00:00,Placed,Infosys,7.5
+S0435,Riya Singh,Female,Pune,Cyber Security,18-05-2025,55000,May-25,Completed,28-08-2025 00:00,Not Placed,,
+S0436,Swati Jadhav,Female,Nashik,Full Stack Development,07-01-2024,50000,Jan-24,Completed,11-03-2024 00:00,Placed,TCS,4.1
+S0437,Neha Mishra,Female,Nashik,Cyber Security,12-05-2024,55000,May-24,Completed,10-08-2024 00:00,Placed,Capgemini,4.3
+S0438,Tanvi Pawar,Female,Nagpur,Full Stack Development,14-08-2025,50000,Aug-25,Completed,13-10-2025 00:00,Not Placed,,
+S0439,Amit Jadhav,Female,Mumbai,Cyber Security,12-07-2025,55000,Jul-25,Completed,05-11-2025 00:00,Placed,Infosys,4.8
+S0440,Isha Chavan,Female,Mumbai,Digital Marketing,02-10-2024,35000,Oct-24,Completed,18-12-2024 00:00,Placed,Accenture,3.4
+S0441,Vikram Kale,Male,Aurangabad,Cyber Security,27-10-2024,55000,Oct-24,Ongoing,,,,
+S0442,Rahul Mishra,Female,Pune,Data Analytics,30-05-2024,45000,May-24,Completed,30-07-2024 00:00,Not Placed,,
+S0443,Shruti Kale,Female,Nagpur,Cyber Security,23-08-2024,55000,Aug-24,Ongoing,,,,
+S0444,Harsh More,Female,Mumbai,Digital Marketing,04-05-2025,35000,May-25,Ongoing,,,,
+S0445,Kunal Singh,Female,Aurangabad,Digital Marketing,28-03-2024,35000,Mar-24,Completed,15-07-2024 00:00,Not Placed,,
+S0446,Sneha Patil,Male,Pune,UI/UX Design,20-02-2024,30000,Feb-24,Completed,03-06-2024 00:00,Placed,Infosys,5.8
+S0447,Sagar Gupta,Male,Aurangabad,Full Stack Development,25-04-2025,50000,Apr-25,Completed,26-06-2025 00:00,Placed,Capgemini,7.3
+S0448,Meera Deshmukh,Male,Nagpur,Full Stack Development,19-10-2025,50000,Oct-25,Completed,16-01-2026 00:00,Not Placed,,
+S0449,Shruti More,Male,Nashik,Digital Marketing,24-02-2024,35000,Feb-24,Completed,22-06-2024 00:00,Placed,Capgemini,3.3
+S0450,Manish Jadhav,Male,Aurangabad,Digital Marketing,19-11-2024,35000,Nov-24,Ongoing,,,,
+S0451,Nikhil Kale,Male,Pune,Digital Marketing,22-05-2024,35000,May-24,Dropped,,,,
+S0452,Riya Singh,Male,Pune,Digital Marketing,11-03-2024,35000,Mar-24,Completed,17-05-2024 00:00,Placed,Capgemini,6.7
+S0453,Manish Kale,Female,Mumbai,Digital Marketing,18-12-2024,35000,Dec-24,Dropped,,,,
+S0454,Sneha Chavan,Male,Mumbai,Full Stack Development,18-08-2024,50000,Aug-24,Completed,11-12-2024 00:00,Placed,Capgemini,5
+S0455,Tanvi Verma,Male,Nagpur,Data Analytics,04-05-2025,45000,May-25,Ongoing,,,,
+S0456,Priya Kulkarni,Male,Mumbai,Data Analytics,16-08-2024,45000,Aug-24,Completed,30-11-2024 00:00,Placed,TCS,6.2
+S0457,Kavya More,Male,Pune,Full Stack Development,14-06-2024,50000,Jun-24,Ongoing,,,,
+S0458,Manish Joshi,Male,Nashik,UI/UX Design,23-01-2024,30000,Jan-24,Completed,19-05-2024 00:00,Placed,Infosys,7.9
+S0459,Kavya Mehta,Male,Mumbai,Data Analytics,30-05-2025,45000,May-25,Dropped,,,,
+S0460,Amit Verma,Male,Aurangabad,Data Analytics,13-11-2024,45000,Nov-24,Ongoing,,,,
+S0461,Kunal Singh,Female,Nagpur,Data Analytics,17-05-2025,45000,May-25,Completed,26-07-2025 00:00,Placed,Wipro,3.7
+S0462,Kunal Verma,Female,Mumbai,Digital Marketing,23-01-2025,35000,Jan-25,Dropped,,,,
+S0463,Harsh Verma,Female,Pune,UI/UX Design,23-10-2024,30000,Oct-24,Ongoing,,,,
+S0464,Omkar Mishra,Female,Pune,Digital Marketing,02-10-2025,35000,Oct-25,Dropped,,,,
+S0465,Kunal Verma,Female,Nagpur,UI/UX Design,19-11-2025,30000,Nov-25,Ongoing,,,,
+S0466,Sneha Gupta,Female,Aurangabad,UI/UX Design,18-09-2025,30000,Sep-25,Ongoing,,,,
+S0467,Kunal Pawar,Female,Aurangabad,Cyber Security,08-12-2025,55000,Dec-25,Completed,12-02-2026 00:00,Placed,Infosys,4.2
+S0468,Arjun Kulkarni,Female,Pune,UI/UX Design,30-04-2024,30000,Apr-24,Ongoing,,,,
+S0469,Manish Verma,Female,Mumbai,Data Analytics,29-10-2024,45000,Oct-24,Completed,28-01-2025 00:00,Placed,Wipro,6.6
+S0470,Komal Patil,Female,Pune,UI/UX Design,06-06-2024,30000,Jun-24,Completed,31-08-2024 00:00,Placed,Accenture,7.4
+S0471,Anjali Chavan,Female,Mumbai,Full Stack Development,28-07-2025,50000,Jul-25,Ongoing,,,,
+S0472,Sneha Pawar,Male,Nagpur,UI/UX Design,18-04-2024,30000,Apr-24,Completed,19-07-2024 00:00,Not Placed,,
+S0473,Manish More,Female,Aurangabad,Cyber Security,16-10-2025,55000,Oct-25,Ongoing,,,,
+S0474,Sagar Kale,Female,Mumbai,Digital Marketing,16-11-2024,35000,Nov-24,Completed,17-01-2025 00:00,Placed,Wipro,5.4
+S0475,Kunal Kale,Female,Mumbai,Cyber Security,01-04-2024,55000,Apr-24,Ongoing,,,,
+S0476,Pooja Sharma,Female,Pune,Digital Marketing,28-07-2025,35000,Jul-25,Completed,02-11-2025 00:00,Placed,Capgemini,5
+S0477,Tanvi Singh,Female,Nagpur,Cyber Security,27-04-2025,55000,Apr-25,Ongoing,,,,
+S0478,Arjun Patil,Male,Mumbai,UI/UX Design,12-08-2025,30000,Aug-25,Dropped,,,,
+S0479,Priya Joshi,Male,Aurangabad,Data Analytics,18-12-2025,45000,Dec-25,Completed,14-04-2026 00:00,Placed,TCS,3.2
+S0480,Sneha Rane,Female,Mumbai,Data Analytics,20-06-2024,45000,Jun-24,Completed,31-08-2024 00:00,Placed,Infosys,6.3
+S0481,Sneha Shinde,Male,Pune,Cyber Security,18-03-2024,55000,Mar-24,Completed,03-06-2024 00:00,Placed,Accenture,4
+S0482,Komal Patil,Male,Aurangabad,Cyber Security,12-06-2024,55000,Jun-24,Completed,30-08-2024 00:00,Placed,Infosys,7.3
+S0483,Meera Sawant,Female,Nashik,UI/UX Design,29-05-2025,30000,May-25,Completed,03-09-2025 00:00,Placed,Infosys,3.6
+S0484,Komal Verma,Female,Nagpur,Digital Marketing,12-03-2025,35000,Mar-25,Ongoing,,,,
+S0485,Omkar Chavan,Male,Nashik,Digital Marketing,15-01-2024,35000,Jan-24,Completed,14-05-2024 00:00,Not Placed,,
+S0486,Shruti Yadav,Male,Pune,Data Analytics,08-12-2024,45000,Dec-24,Ongoing,,,,
+S0487,Omkar Verma,Male,Nashik,Digital Marketing,23-06-2025,35000,Jun-25,Completed,12-10-2025 00:00,Placed,Wipro,6.6
+S0488,Harsh Deshmukh,Male,Nagpur,Cyber Security,15-01-2025,55000,Jan-25,Completed,22-03-2025 00:00,Placed,Infosys,6.6
+S0489,Isha Kale,Male,Nashik,Cyber Security,04-02-2025,55000,Feb-25,Completed,20-04-2025 00:00,Not Placed,,
+S0490,Shruti Yadav,Female,Aurangabad,Cyber Security,29-01-2024,55000,Jan-24,Completed,21-05-2024 00:00,Placed,Capgemini,5.1
+S0491,Pooja Chavan,Female,Nashik,Cyber Security,11-05-2025,55000,May-25,Completed,08-08-2025 00:00,Placed,Wipro,3.2
+S0492,Kavya Rane,Female,Pune,Data Analytics,28-02-2024,45000,Feb-24,Completed,09-05-2024 00:00,Not Placed,,
+S0493,Swati Singh,Male,Nashik,Data Analytics,23-08-2025,45000,Aug-25,Ongoing,,,,
+S0494,Bhakti Kale,Female,Nashik,UI/UX Design,10-01-2024,30000,Jan-24,Completed,06-04-2024 00:00,Not Placed,,
+S0495,Swati Rane,Male,Nagpur,Digital Marketing,02-08-2024,35000,Aug-24,Completed,16-10-2024 00:00,Not Placed,,
+S0496,Riya Naik,Female,Mumbai,UI/UX Design,26-11-2024,30000,Nov-24,Ongoing,,,,
+S0497,Yash Patil,Male,Pune,UI/UX Design,11-05-2024,30000,May-24,Completed,30-08-2024 00:00,Placed,Infosys,3.9
+S0498,Rahul Verma,Male,Mumbai,UI/UX Design,03-04-2025,30000,Apr-25,Ongoing,,,,
+S0499,Pratik Verma,Female,Pune,Digital Marketing,12-03-2024,35000,Mar-24,Completed,12-05-2024 00:00,Placed,Accenture,3.7
+S0500,Neha Naik,Male,Aurangabad,Data Analytics,06-01-2024,45000,Jan-24,Completed,26-03-2024 00:00,Placed,TCS,7
+S0501,Amit Pawar,Female,Nagpur,UI/UX Design,02-03-2024,30000,Mar-24,Completed,08-05-2024 00:00,Not Placed,,
+S0502,Sagar More,Male,Nashik,Full Stack Development,08-06-2024,50000,Jun-24,Completed,17-08-2024 00:00,Placed,Capgemini,4.1
+S0503,Aditi Verma,Male,Mumbai,Digital Marketing,12-12-2025,35000,Dec-25,Completed,22-03-2026 00:00,Placed,TCS,4.7
+S0504,Manish Singh,Male,Nashik,Full Stack Development,22-02-2024,50000,Feb-24,Ongoing,,,,
+S0505,Shruti Pawar,Female,Nashik,Full Stack Development,18-08-2024,50000,Aug-24,Ongoing,,,,
+S0506,Vikram Deshmukh,Female,Nashik,Full Stack Development,30-05-2025,50000,May-25,Ongoing,,,,
+S0507,Rahul Mishra,Male,Pune,Digital Marketing,10-11-2025,35000,Nov-25,Dropped,,,,
+S0508,Omkar Kulkarni,Male,Aurangabad,Data Analytics,12-08-2025,45000,Aug-25,Completed,07-11-2025 00:00,Placed,Wipro,7.9
+S0509,Omkar Kale,Male,Pune,Data Analytics,14-11-2024,45000,Nov-24,Ongoing,,,,
+S0510,Pratik Deshmukh,Female,Mumbai,Cyber Security,07-01-2024,55000,Jan-24,Ongoing,,,,
+S0511,Harsh Rane,Male,Aurangabad,Full Stack Development,16-07-2025,50000,Jul-25,Completed,29-10-2025 00:00,Placed,Wipro,4.4
+S0512,Sagar Mehta,Female,Mumbai,UI/UX Design,05-11-2024,30000,Nov-24,Completed,28-01-2025 00:00,Placed,Capgemini,5.2
+S0513,Amit More,Female,Pune,Full Stack Development,24-02-2025,50000,Feb-25,Ongoing,,,,
+S0514,Riya Sharma,Female,Nagpur,Data Analytics,26-10-2024,45000,Oct-24,Completed,22-01-2025 00:00,Placed,Accenture,3.3
+S0515,Yash Jadhav,Female,Pune,Digital Marketing,26-09-2025,35000,Sep-25,Completed,20-12-2025 00:00,Not Placed,,
+S0516,Meera Sawant,Male,Nagpur,Data Analytics,05-02-2024,45000,Feb-24,Ongoing,,,,
+S0517,Sagar More,Female,Nashik,Cyber Security,01-03-2025,55000,Mar-25,Completed,27-06-2025 00:00,Placed,Wipro,7.5
+S0518,Aditi Mehta,Male,Pune,UI/UX Design,27-10-2024,30000,Oct-24,Completed,21-01-2025 00:00,Not Placed,,
+S0519,Yash Chavan,Female,Nashik,Digital Marketing,12-05-2024,35000,May-24,Completed,09-09-2024 00:00,Placed,Capgemini,3.7
+S0520,Shruti Sharma,Male,Nashik,UI/UX Design,21-02-2024,30000,Feb-24,Completed,28-05-2024 00:00,Not Placed,,
+S0521,Isha Singh,Male,Aurangabad,Full Stack Development,19-06-2025,50000,Jun-25,Completed,22-09-2025 00:00,Placed,Accenture,7.1
+S0522,Nikhil Sawant,Male,Mumbai,Cyber Security,16-12-2024,55000,Dec-24,Completed,20-03-2025 00:00,Placed,TCS,5.8
+S0523,Arjun Joshi,Female,Nagpur,Cyber Security,03-06-2024,55000,Jun-24,Completed,21-09-2024 00:00,Not Placed,,
+S0524,Rohit Gupta,Male,Nashik,Full Stack Development,08-02-2024,50000,Feb-24,Completed,18-04-2024 00:00,Not Placed,,
+S0525,Priya Patil,Female,Aurangabad,UI/UX Design,10-06-2024,30000,Jun-24,Completed,29-08-2024 00:00,Placed,Accenture,3.8
+S0526,Aditi Sharma,Female,Nashik,UI/UX Design,08-03-2025,30000,Mar-25,Completed,25-05-2025 00:00,Placed,Accenture,3.6
+S0527,Priya Shinde,Male,Nagpur,Digital Marketing,02-04-2025,35000,Apr-25,Ongoing,,,,
+S0528,Anjali Chavan,Male,Mumbai,Cyber Security,21-09-2025,55000,Sep-25,Completed,28-11-2025 00:00,Placed,Wipro,5.7
+S0529,Meera Gupta,Male,Nashik,Full Stack Development,08-02-2024,50000,Feb-24,Ongoing,,,,
+S0530,Sneha Singh,Female,Mumbai,UI/UX Design,07-08-2024,30000,Aug-24,Ongoing,,,,
+S0531,Sagar Joshi,Male,Mumbai,Digital Marketing,06-11-2025,35000,Nov-25,Ongoing,,,,
+S0532,Sneha Yadav,Female,Nashik,Cyber Security,30-08-2025,55000,Aug-25,Completed,18-12-2025 00:00,Placed,TCS,3.2
+S0533,Isha Patil,Female,Pune,Data Analytics,18-05-2025,45000,May-25,Completed,03-08-2025 00:00,Placed,Capgemini,5.5
+S0534,Rohit Jadhav,Male,Aurangabad,Data Analytics,22-11-2024,45000,Nov-24,Ongoing,,,,
+S0535,Tejas Singh,Female,Aurangabad,Full Stack Development,09-04-2024,50000,Apr-24,Ongoing,,,,
+S0536,Pratik Jadhav,Female,Aurangabad,Data Analytics,20-02-2025,45000,Feb-25,Completed,17-05-2025 00:00,Placed,Infosys,5.5
+S0537,Neha Mehta,Male,Nashik,Full Stack Development,28-02-2025,50000,Feb-25,Completed,18-06-2025 00:00,Not Placed,,
+S0538,Aditi Deshmukh,Female,Nagpur,Data Analytics,17-01-2024,45000,Jan-24,Completed,29-03-2024 00:00,Not Placed,,
+S0539,Pooja Sharma,Male,Pune,Full Stack Development,27-04-2024,50000,Apr-24,Completed,22-07-2024 00:00,Placed,Capgemini,3.2
+S0540,Omkar Mehta,Male,Nagpur,Cyber Security,13-01-2025,55000,Jan-25,Ongoing,,,,
+S0541,Pratik Yadav,Male,Pune,Data Analytics,18-08-2024,45000,Aug-24,Ongoing,,,,
+S0542,Yash Gupta,Male,Nagpur,Digital Marketing,27-10-2025,35000,Oct-25,Ongoing,,,,
+S0543,Omkar Mehta,Female,Pune,Cyber Security,25-07-2024,55000,Jul-24,Completed,09-11-2024 00:00,Placed,Infosys,3.4
+S0544,Arjun Shinde,Male,Mumbai,Digital Marketing,11-05-2024,35000,May-24,Completed,07-09-2024 00:00,Placed,Wipro,3.3
+S0545,Isha Naik,Female,Nagpur,Full Stack Development,17-05-2024,50000,May-24,Completed,25-07-2024 00:00,Placed,TCS,3.3
+S0546,Tejas Kulkarni,Female,Mumbai,Digital Marketing,16-11-2024,35000,Nov-24,Ongoing,,,,
+S0547,Shruti Shinde,Male,Pune,Full Stack Development,11-12-2025,50000,Dec-25,Completed,28-02-2026 00:00,Not Placed,,
+S0548,Priya Verma,Male,Mumbai,Digital Marketing,09-08-2025,35000,Aug-25,Dropped,,,,
+S0549,Rohit Jadhav,Male,Nagpur,Cyber Security,27-04-2025,55000,Apr-25,Completed,03-07-2025 00:00,Not Placed,,
+S0550,Neha Yadav,Female,Nagpur,UI/UX Design,15-04-2025,30000,Apr-25,Ongoing,,,,
+S0551,Rohit More,Male,Nashik,UI/UX Design,14-11-2024,30000,Nov-24,Dropped,,,,
+S0552,Meera Shinde,Male,Mumbai,Digital Marketing,30-05-2025,35000,May-25,Ongoing,,,,
+S0553,Nikhil Sawant,Male,Mumbai,Digital Marketing,02-05-2024,35000,May-24,Completed,29-08-2024 00:00,Placed,Infosys,4.1
+S0554,Nikhil Joshi,Female,Pune,UI/UX Design,11-10-2024,30000,Oct-24,Completed,12-01-2025 00:00,Placed,Wipro,5.1
+S0555,Shruti Yadav,Male,Mumbai,Digital Marketing,19-10-2025,35000,Oct-25,Completed,19-01-2026 00:00,Placed,TCS,6.7
+S0556,Vikram Yadav,Male,Nashik,Digital Marketing,18-03-2025,35000,Mar-25,Completed,19-05-2025 00:00,Not Placed,,
+S0557,Manish Pawar,Female,Mumbai,Digital Marketing,15-01-2024,35000,Jan-24,Ongoing,,,,
+S0558,Rohit More,Female,Pune,Full Stack Development,17-01-2025,50000,Jan-25,Completed,21-04-2025 00:00,Placed,Accenture,4.5
+S0559,Isha Verma,Male,Aurangabad,Digital Marketing,11-07-2025,35000,Jul-25,Completed,26-10-2025 00:00,Placed,TCS,5.6
+S0560,Arjun Singh,Female,Aurangabad,Data Analytics,02-06-2024,45000,Jun-24,Completed,30-09-2024 00:00,Placed,Infosys,7.5
+S0561,Aditya Chavan,Female,Nashik,Digital Marketing,03-07-2025,35000,Jul-25,Ongoing,,,,
+S0562,Isha Kale,Female,Pune,UI/UX Design,25-05-2024,30000,May-24,Completed,12-08-2024 00:00,Placed,Infosys,7.3
+S0563,Priya More,Female,Aurangabad,Data Analytics,30-12-2025,45000,Dec-25,Completed,13-04-2026 00:00,Placed,Capgemini,7.5
+S0564,Manish More,Male,Mumbai,Full Stack Development,05-02-2025,50000,Feb-25,Completed,28-05-2025 00:00,Placed,Accenture,3.8
+S0565,Shruti Kulkarni,Female,Nashik,Data Analytics,29-06-2025,45000,Jun-25,Dropped,,,,
+S0566,Riya Rane,Male,Nashik,Digital Marketing,20-05-2025,35000,May-25,Completed,15-08-2025 00:00,Placed,Capgemini,5.2
+S0567,Isha Shinde,Male,Aurangabad,Cyber Security,03-01-2024,55000,Jan-24,Completed,10-04-2024 00:00,Placed,Accenture,6.4
+S0568,Kavya Mehta,Female,Mumbai,Cyber Security,11-12-2025,55000,Dec-25,Completed,14-03-2026 00:00,Not Placed,,
+S0569,Tanvi Patil,Female,Pune,Digital Marketing,12-01-2025,35000,Jan-25,Ongoing,,,,
+S0570,Omkar Mishra,Male,Nashik,Cyber Security,13-09-2024,55000,Sep-24,Completed,25-11-2024 00:00,Placed,Infosys,5.3
+S0571,Pooja Pawar,Female,Mumbai,UI/UX Design,11-09-2025,30000,Sep-25,Completed,16-12-2025 00:00,Placed,Infosys,6.5
+S0572,Anjali Gupta,Female,Mumbai,Cyber Security,05-08-2025,55000,Aug-25,Ongoing,,,,
+S0573,Tanvi Chavan,Male,Nashik,Digital Marketing,25-02-2025,35000,Feb-25,Completed,10-06-2025 00:00,Placed,Accenture,6.9
+S0574,Vikram Yadav,Female,Aurangabad,Cyber Security,02-07-2025,55000,Jul-25,Ongoing,,,,
+S0575,Nikhil More,Male,Aurangabad,UI/UX Design,20-01-2024,30000,Jan-24,Completed,28-04-2024 00:00,Not Placed,,
+S0576,Riya Deshmukh,Female,Aurangabad,UI/UX Design,30-06-2025,30000,Jun-25,Completed,08-10-2025 00:00,Placed,TCS,6.2
+S0577,Sagar Kulkarni,Male,Nagpur,Cyber Security,16-07-2025,55000,Jul-25,Completed,16-09-2025 00:00,Placed,TCS,6.3
+S0578,Tejas Sharma,Male,Nashik,Cyber Security,11-09-2025,55000,Sep-25,Ongoing,,,,
+S0579,Bhakti Yadav,Female,Nashik,Full Stack Development,18-03-2025,50000,Mar-25,Completed,04-06-2025 00:00,Placed,TCS,6.6
+S0580,Sagar Chavan,Female,Mumbai,Full Stack Development,29-07-2024,50000,Jul-24,Completed,29-09-2024 00:00,Placed,Accenture,6.1
+S0581,Sneha Jadhav,Female,Nashik,UI/UX Design,31-01-2024,30000,Jan-24,Completed,21-04-2024 00:00,Placed,Wipro,7.8
+S0582,Tejas Kale,Male,Nagpur,Cyber Security,25-03-2024,55000,Mar-24,Completed,26-05-2024 00:00,Not Placed,,
+S0583,Shruti Patil,Male,Nagpur,Cyber Security,22-11-2025,55000,Nov-25,Completed,09-03-2026 00:00,Not Placed,,
+S0584,Aditi Joshi,Female,Nashik,Data Analytics,07-04-2025,45000,Apr-25,Completed,01-07-2025 00:00,Placed,Accenture,7.8
+S0585,Riya Yadav,Female,Nashik,Data Analytics,18-04-2025,45000,Apr-25,Dropped,,,,
+S0586,Aditya Rane,Male,Nagpur,Digital Marketing,10-10-2025,35000,Oct-25,Completed,28-12-2025 00:00,Placed,TCS,4.4
+S0587,Manish Rane,Male,Aurangabad,Data Analytics,16-03-2024,45000,Mar-24,Completed,13-06-2024 00:00,Placed,Wipro,6.2
+S0588,Pratik Pawar,Male,Mumbai,Full Stack Development,01-11-2024,50000,Nov-24,Completed,21-02-2025 00:00,Placed,Capgemini,5.5
+S0589,Riya Verma,Female,Aurangabad,UI/UX Design,01-02-2024,30000,Feb-24,Ongoing,,,,
+S0590,Arjun Jadhav,Male,Mumbai,Digital Marketing,29-01-2024,35000,Jan-24,Ongoing,,,,
+S0591,Anjali Mishra,Female,Aurangabad,Full Stack Development,30-01-2025,50000,Jan-25,Completed,13-04-2025 00:00,Placed,Wipro,7.8
+S0592,Yash Chavan,Male,Nashik,Full Stack Development,16-01-2025,50000,Jan-25,Ongoing,,,,
+S0593,Nikhil Verma,Male,Nashik,Data Analytics,07-04-2025,45000,Apr-25,Dropped,,,,
+S0594,Rahul Chavan,Male,Nagpur,Digital Marketing,08-06-2025,35000,Jun-25,Completed,30-09-2025 00:00,Not Placed,,
+S0595,Priya Verma,Male,Pune,Digital Marketing,20-10-2025,35000,Oct-25,Dropped,,,,
+S0596,Kavya Joshi,Female,Aurangabad,Digital Marketing,27-07-2025,35000,Jul-25,Completed,07-10-2025 00:00,Placed,Infosys,6.5
+S0597,Swati More,Male,Mumbai,Full Stack Development,15-01-2025,50000,Jan-25,Completed,03-04-2025 00:00,Placed,Infosys,5.8
+S0598,Pooja More,Female,Nashik,Full Stack Development,26-08-2024,50000,Aug-24,Completed,15-11-2024 00:00,Placed,Capgemini,4.1
+S0599,Priya Yadav,Male,Mumbai,Full Stack Development,11-12-2024,50000,Dec-24,Completed,05-03-2025 00:00,Not Placed,,
+S0600,Riya Verma,Female,Nashik,UI/UX Design,26-07-2025,30000,Jul-25,Ongoing,,,,
+S0601,Amit Kale,Female,Pune,Full Stack Development,31-07-2025,50000,Jul-25,Dropped,,,,
+S0602,Manish Sharma,Male,Nagpur,Cyber Security,29-11-2025,55000,Nov-25,Completed,23-03-2026 00:00,Placed,Wipro,4.5
+S0603,Kunal Deshmukh,Male,Aurangabad,Full Stack Development,22-05-2024,50000,May-24,Completed,26-07-2024 00:00,Not Placed,,
+S0604,Aditya Chavan,Female,Mumbai,UI/UX Design,10-08-2024,30000,Aug-24,Completed,16-11-2024 00:00,Not Placed,,
+S0605,Amit Gupta,Male,Aurangabad,Data Analytics,03-04-2025,45000,Apr-25,Completed,29-07-2025 00:00,Not Placed,,
+S0606,Tejas Patil,Male,Mumbai,Digital Marketing,01-08-2024,35000,Aug-24,Completed,22-11-2024 00:00,Not Placed,,
+S0607,Bhakti Yadav,Female,Pune,Cyber Security,01-11-2024,55000,Nov-24,Ongoing,,,,
+S0608,Nikhil Mehta,Female,Aurangabad,Digital Marketing,21-07-2025,35000,Jul-25,Ongoing,,,,
+S0609,Shruti Mehta,Female,Pune,Full Stack Development,28-12-2024,50000,Dec-24,Dropped,,,,
+S0610,Bhakti Deshmukh,Female,Pune,Data Analytics,29-08-2024,45000,Aug-24,Ongoing,,,,
+S0611,Manish Joshi,Female,Nagpur,Cyber Security,31-10-2024,55000,Oct-24,Ongoing,,,,
+S0612,Kunal Patil,Female,Mumbai,UI/UX Design,23-05-2025,30000,May-25,Completed,02-08-2025 00:00,Placed,Wipro,6.4
+S0613,Shruti Gupta,Male,Nashik,UI/UX Design,04-11-2024,30000,Nov-24,Completed,27-01-2025 00:00,Placed,Accenture,6.7
+S0614,Omkar Jadhav,Male,Aurangabad,UI/UX Design,08-05-2024,30000,May-24,Dropped,,,,
+S0615,Manish Patil,Female,Pune,Digital Marketing,02-12-2024,35000,Dec-24,Completed,24-03-2025 00:00,Placed,Infosys,5.3
+S0616,Amit Naik,Female,Aurangabad,UI/UX Design,22-05-2025,30000,May-25,Completed,08-08-2025 00:00,Placed,Infosys,4.1
+S0617,Omkar Sharma,Female,Nashik,Digital Marketing,18-11-2025,35000,Nov-25,Completed,14-03-2026 00:00,Placed,Wipro,5.5
+S0618,Neha Jadhav,Male,Mumbai,Digital Marketing,29-06-2024,35000,Jun-24,Completed,17-10-2024 00:00,Placed,Accenture,5
+S0619,Harsh Deshmukh,Male,Pune,Digital Marketing,11-01-2025,35000,Jan-25,Ongoing,,,,
+S0620,Aditi Pawar,Male,Pune,Data Analytics,13-05-2025,45000,May-25,Completed,26-07-2025 00:00,Not Placed,,
+S0621,Kunal Kulkarni,Male,Pune,Data Analytics,23-09-2024,45000,Sep-24,Completed,21-01-2025 00:00,Placed,Capgemini,6.9
+S0622,Meera Singh,Female,Pune,Digital Marketing,23-05-2025,35000,May-25,Completed,12-08-2025 00:00,Placed,Wipro,3.7
+S0623,Amit Mehta,Male,Pune,Data Analytics,27-04-2024,45000,Apr-24,Completed,07-07-2024 00:00,Placed,Infosys,5.4
+S0624,Aditi Deshmukh,Male,Pune,Digital Marketing,31-05-2024,35000,May-24,Completed,25-08-2024 00:00,Placed,Capgemini,6.8
+S0625,Riya Sawant,Male,Mumbai,Full Stack Development,18-09-2024,50000,Sep-24,Ongoing,,,,
+S0626,Meera Rane,Male,Aurangabad,Data Analytics,19-12-2024,45000,Dec-24,Completed,07-03-2025 00:00,Placed,Wipro,4.5
+S0627,Sagar Mehta,Male,Nagpur,Data Analytics,12-04-2025,45000,Apr-25,Ongoing,,,,
+S0628,Kunal Verma,Female,Pune,Cyber Security,05-04-2025,55000,Apr-25,Completed,13-06-2025 00:00,Placed,Infosys,3.1
+S0629,Rahul Verma,Female,Mumbai,Data Analytics,04-06-2024,45000,Jun-24,Completed,05-08-2024 00:00,Not Placed,,
+S0630,Harsh Kulkarni,Male,Mumbai,UI/UX Design,07-09-2025,30000,Sep-25,Completed,29-11-2025 00:00,Placed,TCS,4.2
+S0631,Tanvi Verma,Male,Nagpur,UI/UX Design,10-06-2024,30000,Jun-24,Completed,03-10-2024 00:00,Placed,TCS,4.8
+S0632,Bhakti Deshmukh,Female,Aurangabad,UI/UX Design,22-08-2025,30000,Aug-25,Ongoing,,,,
+S0633,Riya Singh,Female,Nagpur,Cyber Security,05-03-2025,55000,Mar-25,Completed,13-06-2025 00:00,Not Placed,,
+S0634,Pooja Deshmukh,Male,Nagpur,Digital Marketing,13-02-2024,35000,Feb-24,Ongoing,,,,
+S0635,Rahul Mehta,Male,Pune,UI/UX Design,19-12-2025,30000,Dec-25,Completed,25-03-2026 00:00,Placed,Wipro,6.3
+S0636,Nikhil Pawar,Male,Pune,Full Stack Development,29-06-2025,50000,Jun-25,Dropped,,,,
+S0637,Arjun Patil,Male,Pune,UI/UX Design,30-03-2025,30000,Mar-25,Completed,22-07-2025 00:00,Placed,Wipro,6.6
+S0638,Sagar Kulkarni,Female,Nagpur,Data Analytics,16-08-2024,45000,Aug-24,Ongoing,,,,
+S0639,Komal Gupta,Male,Pune,Digital Marketing,03-10-2024,35000,Oct-24,Completed,31-12-2024 00:00,Placed,Accenture,3.3
+S0640,Swati Naik,Male,Nagpur,Full Stack Development,02-11-2024,50000,Nov-24,Dropped,,,,
+S0641,Sneha Mehta,Female,Nagpur,Digital Marketing,28-08-2025,35000,Aug-25,Completed,14-11-2025 00:00,Placed,Infosys,3.3
+S0642,Kavya Jadhav,Female,Mumbai,Cyber Security,15-03-2024,55000,Mar-24,Ongoing,,,,
+S0643,Rahul More,Female,Aurangabad,Cyber Security,23-07-2024,55000,Jul-24,Completed,28-10-2024 00:00,Placed,TCS,4.1
+S0644,Bhakti Yadav,Female,Aurangabad,UI/UX Design,08-06-2024,30000,Jun-24,Dropped,,,,
+S0645,Pooja Sawant,Male,Nagpur,UI/UX Design,30-08-2025,30000,Aug-25,Completed,20-12-2025 00:00,Placed,Wipro,6.3
+S0646,Sagar Patil,Female,Nashik,Data Analytics,17-08-2024,45000,Aug-24,Ongoing,,,,
+S0647,Neha Kulkarni,Male,Mumbai,UI/UX Design,07-11-2024,30000,Nov-24,Completed,27-01-2025 00:00,Placed,Capgemini,7.7
+S0648,Swati More,Male,Pune,Digital Marketing,20-04-2024,35000,Apr-24,Ongoing,,,,
+S0649,Rahul Sharma,Male,Aurangabad,UI/UX Design,05-12-2025,30000,Dec-25,Ongoing,,,,
+S0650,Tejas Jadhav,Male,Mumbai,Digital Marketing,30-08-2024,35000,Aug-24,Ongoing,,,,
+S0651,Sagar Sawant,Female,Pune,Full Stack Development,23-08-2024,50000,Aug-24,Completed,09-11-2024 00:00,Placed,Accenture,3.9
+S0652,Vikram Singh,Male,Nashik,Digital Marketing,25-10-2024,35000,Oct-24,Completed,18-02-2025 00:00,Not Placed,,
+S0653,Pooja Gupta,Female,Nashik,Digital Marketing,19-05-2024,35000,May-24,Completed,02-08-2024 00:00,Placed,Capgemini,6.8
+S0654,Arjun Sharma,Male,Nashik,Full Stack Development,14-11-2025,50000,Nov-25,Dropped,,,,
+S0655,Meera More,Male,Pune,Cyber Security,12-08-2025,55000,Aug-25,Completed,11-10-2025 00:00,Placed,Capgemini,4.5
+S0656,Shruti Mishra,Male,Pune,Digital Marketing,20-01-2024,35000,Jan-24,Completed,05-04-2024 00:00,Placed,Wipro,7.9
+S0657,Tanvi Jadhav,Female,Nashik,Digital Marketing,30-09-2025,35000,Sep-25,Ongoing,,,,
+S0658,Aditi Deshmukh,Male,Nagpur,Data Analytics,10-02-2025,45000,Feb-25,Ongoing,,,,
+S0659,Amit Mishra,Female,Mumbai,Full Stack Development,15-04-2024,50000,Apr-24,Completed,16-07-2024 00:00,Placed,Accenture,7.2
+S0660,Rohit Jadhav,Female,Mumbai,Digital Marketing,30-12-2025,35000,Dec-25,Ongoing,,,,
+S0661,Anjali More,Female,Pune,Cyber Security,15-02-2024,55000,Feb-24,Completed,29-05-2024 00:00,Not Placed,,
+S0662,Anjali Kulkarni,Female,Nashik,UI/UX Design,12-08-2025,30000,Aug-25,Ongoing,,,,
+S0663,Komal Kulkarni,Female,Mumbai,Full Stack Development,16-01-2024,50000,Jan-24,Ongoing,,,,
+S0664,Yash More,Female,Nashik,Data Analytics,09-03-2024,45000,Mar-24,Completed,15-06-2024 00:00,Placed,Wipro,7.9
+S0665,Riya Singh,Male,Mumbai,Digital Marketing,20-04-2025,35000,Apr-25,Ongoing,,,,
+S0666,Rohit Sharma,Male,Nashik,Cyber Security,04-12-2024,55000,Dec-24,Dropped,,,,
+S0667,Sagar Naik,Female,Nashik,Full Stack Development,02-06-2024,50000,Jun-24,Ongoing,,,,
+S0668,Isha Deshmukh,Male,Nagpur,Data Analytics,20-12-2025,45000,Dec-25,Completed,04-04-2026 00:00,Placed,TCS,3.6
+S0669,Pooja Kulkarni,Male,Nagpur,Cyber Security,27-08-2024,55000,Aug-24,Completed,14-12-2024 00:00,Placed,TCS,6
+S0670,Komal Pawar,Male,Nagpur,Cyber Security,10-09-2024,55000,Sep-24,Ongoing,,,,
+S0671,Anjali Sharma,Male,Pune,UI/UX Design,29-03-2024,30000,Mar-24,Completed,13-06-2024 00:00,Not Placed,,
+S0672,Pratik Sawant,Female,Aurangabad,UI/UX Design,07-03-2025,30000,Mar-25,Completed,11-06-2025 00:00,Placed,Infosys,4
+S0673,Meera Sharma,Female,Nashik,UI/UX Design,18-11-2024,30000,Nov-24,Ongoing,,,,
+S0674,Meera Pawar,Male,Pune,Data Analytics,14-10-2024,45000,Oct-24,Completed,18-12-2024 00:00,Not Placed,,
+S0675,Isha Chavan,Male,Pune,Data Analytics,11-04-2025,45000,Apr-25,Dropped,,,,
+S0676,Kavya Naik,Male,Aurangabad,UI/UX Design,15-03-2024,30000,Mar-24,Ongoing,,,,
+S0677,Isha Pawar,Male,Pune,Cyber Security,03-05-2024,55000,May-24,Dropped,,,,
+S0678,Anjali Kale,Female,Nagpur,Digital Marketing,15-03-2024,35000,Mar-24,Ongoing,,,,
+S0679,Sneha Mehta,Male,Mumbai,Full Stack Development,12-04-2025,50000,Apr-25,Completed,25-07-2025 00:00,Not Placed,,
+S0680,Priya Gupta,Male,Nagpur,Full Stack Development,05-09-2025,50000,Sep-25,Completed,06-11-2025 00:00,Placed,Wipro,7.9
+S0681,Komal Rane,Female,Mumbai,Data Analytics,05-07-2024,45000,Jul-24,Completed,08-10-2024 00:00,Not Placed,,
+S0682,Omkar Patil,Female,Nagpur,Data Analytics,30-11-2024,45000,Nov-24,Completed,08-02-2025 00:00,Not Placed,,
+S0683,Priya Gupta,Male,Pune,Digital Marketing,04-12-2025,35000,Dec-25,Completed,11-03-2026 00:00,Placed,Accenture,4.9
+S0684,Swati Sawant,Male,Nashik,Full Stack Development,04-10-2025,50000,Oct-25,Completed,25-01-2026 00:00,Placed,Accenture,3.3
+S0685,Omkar Mishra,Male,Mumbai,Digital Marketing,19-01-2025,35000,Jan-25,Completed,09-04-2025 00:00,Not Placed,,
+S0686,Shruti Naik,Female,Nashik,Data Analytics,06-03-2024,45000,Mar-24,Completed,24-06-2024 00:00,Placed,Infosys,6.2
+S0687,Harsh Sawant,Female,Nashik,Digital Marketing,24-12-2024,35000,Dec-24,Completed,06-03-2025 00:00,Placed,Infosys,4.4
+S0688,Meera Sawant,Female,Aurangabad,Data Analytics,05-04-2025,45000,Apr-25,Completed,07-06-2025 00:00,Placed,Wipro,3.5
+S0689,Nikhil More,Male,Nagpur,UI/UX Design,24-01-2025,30000,Jan-25,Completed,28-04-2025 00:00,Placed,TCS,6.3
+S0690,Vikram Jadhav,Male,Nashik,Data Analytics,13-11-2025,45000,Nov-25,Ongoing,,,,
+S0691,Priya Sharma,Female,Nashik,Data Analytics,02-04-2025,45000,Apr-25,Completed,24-07-2025 00:00,Placed,Infosys,4.2
+S0692,Aditya Yadav,Female,Aurangabad,UI/UX Design,28-06-2025,30000,Jun-25,Ongoing,,,,
+S0693,Anjali Shinde,Female,Nashik,Digital Marketing,02-04-2024,35000,Apr-24,Completed,10-07-2024 00:00,Not Placed,,
+S0694,Arjun Pawar,Male,Mumbai,Cyber Security,22-06-2025,55000,Jun-25,Ongoing,,,,
+S0695,Sagar Mehta,Female,Pune,UI/UX Design,27-09-2025,30000,Sep-25,Completed,02-01-2026 00:00,Placed,Accenture,4.8
+S0696,Tejas Rane,Male,Aurangabad,Digital Marketing,17-10-2024,35000,Oct-24,Ongoing,,,,
+S0697,Pratik Shinde,Male,Mumbai,Data Analytics,14-01-2025,45000,Jan-25,Dropped,,,,
+S0698,Pratik Patil,Male,Pune,Full Stack Development,13-01-2024,50000,Jan-24,Completed,12-05-2024 00:00,Placed,TCS,5.3
+S0699,Pooja Chavan,Female,Aurangabad,Digital Marketing,26-10-2025,35000,Oct-25,Completed,05-01-2026 00:00,Not Placed,,
+S0700,Priya Kulkarni,Male,Mumbai,Full Stack Development,04-04-2024,50000,Apr-24,Ongoing,,,,
+S0701,Arjun Sawant,Female,Nagpur,Full Stack Development,08-08-2024,50000,Aug-24,Ongoing,,,,
+S0702,Komal Kale,Male,Pune,Cyber Security,03-11-2024,55000,Nov-24,Completed,23-02-2025 00:00,Placed,Wipro,5.7
+S0703,Pratik Kale,Female,Pune,Data Analytics,10-01-2025,45000,Jan-25,Completed,04-05-2025 00:00,Placed,Infosys,4.9
+S0704,Sagar More,Female,Pune,Cyber Security,08-02-2024,55000,Feb-24,Completed,29-04-2024 00:00,Placed,Accenture,4.2
+S0705,Yash Mehta,Female,Pune,Cyber Security,23-10-2025,55000,Oct-25,Completed,19-02-2026 00:00,Placed,Infosys,4
+S0706,Kavya Patil,Female,Pune,UI/UX Design,17-11-2024,30000,Nov-24,Completed,06-02-2025 00:00,Placed,Accenture,3
+S0707,Yash Deshmukh,Female,Mumbai,Digital Marketing,08-10-2024,35000,Oct-24,Ongoing,,,,
+S0708,Riya Singh,Male,Mumbai,Cyber Security,15-05-2024,55000,May-24,Ongoing,,,,
+S0709,Bhakti Patil,Male,Mumbai,Digital Marketing,04-10-2024,35000,Oct-24,Ongoing,,,,
+S0710,Kavya Patil,Female,Aurangabad,Full Stack Development,26-09-2024,50000,Sep-24,Ongoing,,,,
+S0711,Swati Sharma,Female,Aurangabad,UI/UX Design,28-01-2024,30000,Jan-24,Ongoing,,,,
+S0712,Manish Mishra,Female,Pune,Data Analytics,09-03-2025,45000,Mar-25,Completed,18-05-2025 00:00,Placed,TCS,6.6
+S0713,Anjali Mishra,Male,Pune,Full Stack Development,08-06-2025,50000,Jun-25,Ongoing,,,,
+S0714,Pratik Sharma,Female,Nagpur,Full Stack Development,17-12-2024,50000,Dec-24,Completed,09-04-2025 00:00,Placed,Wipro,3.6
+S0715,Pratik Deshmukh,Male,Pune,Cyber Security,09-09-2024,55000,Sep-24,Ongoing,,,,
+S0716,Sneha Rane,Female,Nashik,Data Analytics,05-06-2024,45000,Jun-24,Ongoing,,,,
+S0717,Amit Rane,Female,Pune,Digital Marketing,18-04-2025,35000,Apr-25,Ongoing,,,,
+S0718,Rohit Verma,Female,Aurangabad,Cyber Security,18-05-2024,55000,May-24,Ongoing,,,,
+S0719,Harsh Mehta,Male,Nashik,Data Analytics,15-12-2025,45000,Dec-25,Ongoing,,,,
+S0720,Pooja Gupta,Male,Aurangabad,Data Analytics,24-09-2025,45000,Sep-25,Completed,17-12-2025 00:00,Placed,TCS,7.6
+S0721,Swati Chavan,Male,Pune,UI/UX Design,14-04-2024,30000,Apr-24,Ongoing,,,,
+S0722,Arjun Jadhav,Male,Mumbai,Cyber Security,17-10-2025,55000,Oct-25,Completed,23-01-2026 00:00,Placed,Infosys,4.4
+S0723,Aditya Shinde,Male,Nagpur,Digital Marketing,15-02-2024,35000,Feb-24,Completed,17-05-2024 00:00,Not Placed,,
+S0724,Omkar Mishra,Female,Aurangabad,Data Analytics,25-02-2024,45000,Feb-24,Completed,06-06-2024 00:00,Placed,Accenture,5.5
+S0725,Manish Pawar,Female,Nagpur,Data Analytics,23-11-2025,45000,Nov-25,Completed,02-03-2026 00:00,Not Placed,,
+S0726,Vikram Singh,Female,Aurangabad,Digital Marketing,03-02-2025,35000,Feb-25,Ongoing,,,,
+S0727,Tanvi Jadhav,Male,Aurangabad,Cyber Security,27-04-2024,55000,Apr-24,Completed,10-08-2024 00:00,Not Placed,,
+S0728,Pooja Joshi,Male,Nashik,Digital Marketing,28-07-2024,35000,Jul-24,Completed,09-10-2024 00:00,Placed,Accenture,6.8
+S0729,Yash Jadhav,Female,Pune,Digital Marketing,19-08-2025,35000,Aug-25,Completed,24-11-2025 00:00,Placed,Infosys,7.9
+S0730,Harsh Deshmukh,Male,Pune,Cyber Security,06-09-2024,55000,Sep-24,Completed,06-12-2024 00:00,Placed,Wipro,7.7
+S0731,Neha Deshmukh,Female,Pune,Data Analytics,10-11-2025,45000,Nov-25,Ongoing,,,,
+S0732,Tejas Kale,Male,Pune,Data Analytics,08-06-2024,45000,Jun-24,Dropped,,,,
+S0733,Swati Gupta,Male,Nagpur,UI/UX Design,17-01-2024,30000,Jan-24,Ongoing,,,,
+S0734,Riya Kulkarni,Male,Nagpur,Cyber Security,26-10-2025,55000,Oct-25,Completed,17-01-2026 00:00,Placed,Infosys,6.9
+S0735,Sagar Sharma,Male,Mumbai,Digital Marketing,16-08-2024,35000,Aug-24,Completed,25-10-2024 00:00,Placed,Capgemini,7.6
+S0736,Kavya Kale,Female,Aurangabad,Cyber Security,13-06-2024,55000,Jun-24,Completed,05-10-2024 00:00,Placed,Capgemini,7.9
+S0737,Sneha Pawar,Male,Nashik,Digital Marketing,08-10-2024,35000,Oct-24,Completed,19-12-2024 00:00,Placed,Infosys,7.5
+S0738,Swati Chavan,Male,Nashik,Data Analytics,12-12-2024,45000,Dec-24,Completed,13-02-2025 00:00,Placed,Infosys,5.6
+S0739,Tanvi Mishra,Male,Pune,Full Stack Development,08-10-2025,50000,Oct-25,Dropped,,,,
+S0740,Yash Naik,Female,Nagpur,Digital Marketing,13-05-2024,35000,May-24,Completed,06-08-2024 00:00,Placed,Infosys,3.3
+S0741,Priya Jadhav,Male,Nashik,Full Stack Development,17-11-2024,50000,Nov-24,Ongoing,,,,
+S0742,Vikram Jadhav,Female,Nashik,Cyber Security,16-03-2024,55000,Mar-24,Completed,28-06-2024 00:00,Placed,Infosys,3.1
+S0743,Sagar Sawant,Female,Mumbai,Cyber Security,08-09-2024,55000,Sep-24,Completed,28-12-2024 00:00,Placed,Wipro,4.2
+S0744,Sagar Pawar,Female,Pune,UI/UX Design,22-06-2025,30000,Jun-25,Completed,29-09-2025 00:00,Placed,Accenture,6.1
+S0745,Rahul Joshi,Female,Pune,UI/UX Design,09-11-2025,30000,Nov-25,Dropped,,,,
+S0746,Nikhil Patil,Female,Pune,Cyber Security,14-02-2025,55000,Feb-25,Ongoing,,,,
+S0747,Sagar Jadhav,Male,Nagpur,Cyber Security,17-02-2025,55000,Feb-25,Dropped,,,,
+S0748,Kunal Pawar,Male,Mumbai,Cyber Security,10-03-2024,55000,Mar-24,Completed,28-05-2024 00:00,Placed,Accenture,4.2
+S0749,Amit Kulkarni,Male,Aurangabad,UI/UX Design,30-11-2025,30000,Nov-25,Ongoing,,,,
+S0750,Kavya Singh,Male,Aurangabad,Digital Marketing,25-10-2024,35000,Oct-24,Completed,09-02-2025 00:00,Placed,Infosys,4.7
+S0751,Meera Shinde,Male,Nagpur,UI/UX Design,17-03-2025,30000,Mar-25,Ongoing,,,,
+S0752,Omkar Shinde,Female,Mumbai,UI/UX Design,12-02-2025,30000,Feb-25,Ongoing,,,,
+S0753,Rohit Patil,Male,Nashik,Digital Marketing,12-12-2024,35000,Dec-24,Completed,16-03-2025 00:00,Placed,TCS,7.9
+S0754,Omkar Mehta,Male,Nashik,Cyber Security,22-02-2024,55000,Feb-24,Completed,11-06-2024 00:00,Placed,Capgemini,7.9
+S0755,Vikram Yadav,Female,Pune,Digital Marketing,09-12-2024,35000,Dec-24,Ongoing,,,,
+S0756,Anjali Kulkarni,Female,Nashik,Full Stack Development,10-03-2024,50000,Mar-24,Ongoing,,,,
+S0757,Swati Verma,Male,Nashik,Cyber Security,25-07-2024,55000,Jul-24,Ongoing,,,,
+S0758,Tanvi Gupta,Female,Mumbai,Cyber Security,27-02-2025,55000,Feb-25,Completed,17-06-2025 00:00,Not Placed,,
+S0759,Amit Naik,Female,Nagpur,Digital Marketing,13-11-2024,35000,Nov-24,Completed,06-03-2025 00:00,Placed,Capgemini,6.3
+S0760,Swati Gupta,Female,Nashik,Full Stack Development,19-10-2025,50000,Oct-25,Dropped,,,,
+S0761,Rahul Joshi,Female,Nashik,Cyber Security,26-05-2024,55000,May-24,Completed,03-08-2024 00:00,Placed,Infosys,5.8
+S0762,Vikram Kulkarni,Female,Mumbai,Digital Marketing,09-10-2025,35000,Oct-25,Ongoing,,,,
+S0763,Aditi Kale,Female,Mumbai,Full Stack Development,10-04-2025,50000,Apr-25,Completed,04-08-2025 00:00,Placed,Accenture,3.5
+S0764,Rohit Kulkarni,Male,Nashik,Data Analytics,17-10-2025,45000,Oct-25,Dropped,,,,
+S0765,Amit Naik,Female,Nagpur,UI/UX Design,02-11-2025,30000,Nov-25,Ongoing,,,,
+S0766,Riya Singh,Female,Nashik,Cyber Security,26-06-2025,55000,Jun-25,Completed,09-10-2025 00:00,Not Placed,,
+S0767,Tanvi Kulkarni,Male,Nashik,Data Analytics,10-02-2025,45000,Feb-25,Dropped,,,,
+S0768,Aditya Pawar,Female,Aurangabad,Full Stack Development,26-07-2025,50000,Jul-25,Dropped,,,,
+S0769,Tejas Kulkarni,Male,Mumbai,Data Analytics,08-07-2024,45000,Jul-24,Completed,01-11-2024 00:00,Not Placed,,
+S0770,Aditya Yadav,Male,Nashik,Cyber Security,15-12-2024,55000,Dec-24,Ongoing,,,,
+S0771,Pooja Jadhav,Female,Nashik,Cyber Security,02-05-2025,55000,May-25,Ongoing,,,,
+S0772,Sagar Patil,Male,Nagpur,Cyber Security,31-10-2025,55000,Oct-25,Completed,24-02-2026 00:00,Placed,Infosys,5.9
+S0773,Rahul Rane,Male,Pune,Full Stack Development,19-02-2024,50000,Feb-24,Completed,09-05-2024 00:00,Not Placed,,
+S0774,Kunal Joshi,Male,Aurangabad,Cyber Security,28-06-2025,55000,Jun-25,Completed,21-10-2025 00:00,Not Placed,,
+S0775,Neha Verma,Male,Mumbai,UI/UX Design,15-07-2024,30000,Jul-24,Dropped,,,,
+S0776,Aditya Sawant,Female,Mumbai,Data Analytics,31-12-2024,45000,Dec-24,Ongoing,,,,
+S0777,Amit Gupta,Male,Nagpur,Data Analytics,15-06-2025,45000,Jun-25,Ongoing,,,,
+S0778,Nikhil Singh,Female,Nagpur,Full Stack Development,25-06-2024,50000,Jun-24,Dropped,,,,
+S0779,Kunal Patil,Male,Nagpur,UI/UX Design,01-10-2025,30000,Oct-25,Completed,07-01-2026 00:00,Placed,Accenture,7.2
+S0780,Rohit Rane,Male,Nashik,Digital Marketing,23-05-2025,35000,May-25,Completed,12-08-2025 00:00,Not Placed,,
+S0781,Neha Patil,Male,Nashik,Digital Marketing,23-04-2025,35000,Apr-25,Completed,09-08-2025 00:00,Not Placed,,
+S0782,Sagar Sawant,Male,Pune,Digital Marketing,08-10-2024,35000,Oct-24,Completed,24-12-2024 00:00,Not Placed,,
+S0783,Aditya Kale,Male,Mumbai,Digital Marketing,18-06-2025,35000,Jun-25,Completed,25-08-2025 00:00,Not Placed,,
+S0784,Sneha Rane,Female,Aurangabad,Digital Marketing,01-10-2024,35000,Oct-24,Completed,20-12-2024 00:00,Placed,Accenture,5.8
+S0785,Pooja Naik,Female,Pune,Cyber Security,31-05-2024,55000,May-24,Ongoing,,,,
+S0786,Manish Sawant,Female,Mumbai,Data Analytics,12-08-2025,45000,Aug-25,Ongoing,,,,
+S0787,Bhakti Joshi,Male,Aurangabad,Digital Marketing,12-02-2025,35000,Feb-25,Ongoing,,,,
+S0788,Anjali Rane,Female,Mumbai,Data Analytics,27-03-2024,45000,Mar-24,Ongoing,,,,
+S0789,Anjali Pawar,Male,Nashik,UI/UX Design,24-01-2024,30000,Jan-24,Completed,15-05-2024 00:00,Placed,Wipro,5.6
+S0790,Amit More,Male,Mumbai,Full Stack Development,05-03-2025,50000,Mar-25,Dropped,,,,
+S0791,Sagar Sharma,Male,Pune,Full Stack Development,06-06-2024,50000,Jun-24,Completed,23-09-2024 00:00,Placed,Accenture,4.5
+S0792,Yash Kale,Male,Mumbai,Data Analytics,20-01-2024,45000,Jan-24,Completed,29-04-2024 00:00,Placed,Wipro,7.4
+S0793,Pratik Gupta,Female,Nagpur,Digital Marketing,24-09-2024,35000,Sep-24,Completed,03-12-2024 00:00,Placed,Wipro,7.6
+S0794,Aditya Joshi,Male,Aurangabad,Cyber Security,16-11-2025,55000,Nov-25,Ongoing,,,,
+S0795,Meera Verma,Male,Nashik,Data Analytics,17-10-2025,45000,Oct-25,Completed,09-02-2026 00:00,Placed,Infosys,7.4
+S0796,Rohit Sharma,Female,Nagpur,UI/UX Design,04-07-2024,30000,Jul-24,Dropped,,,,
+S0797,Harsh Shinde,Female,Pune,Cyber Security,01-09-2024,55000,Sep-24,Completed,13-11-2024 00:00,Placed,Infosys,6.3
+S0798,Rahul Joshi,Female,Nagpur,Data Analytics,22-05-2025,45000,May-25,Completed,19-09-2025 00:00,Not Placed,,
+S0799,Tanvi Mehta,Male,Pune,Digital Marketing,30-06-2024,35000,Jun-24,Completed,29-09-2024 00:00,Placed,Capgemini,5.2
+S0800,Neha Joshi,Female,Pune,Cyber Security,06-02-2024,55000,Feb-24,Completed,15-05-2024 00:00,Placed,Accenture,4.2
+S0801,Manish Verma,Female,Mumbai,Digital Marketing,24-12-2024,35000,Dec-24,Completed,02-04-2025 00:00,Placed,TCS,7.8
+S0802,Sagar Mehta,Female,Aurangabad,Full Stack Development,10-11-2024,50000,Nov-24,Ongoing,,,,
+S0803,Kavya Sharma,Female,Mumbai,Data Analytics,13-07-2025,45000,Jul-25,Completed,07-11-2025 00:00,Placed,TCS,3
+S0804,Bhakti Joshi,Female,Mumbai,Cyber Security,20-09-2025,55000,Sep-25,Completed,04-12-2025 00:00,Placed,Accenture,6.9
+S0805,Sneha More,Female,Pune,Cyber Security,22-05-2025,55000,May-25,Completed,22-07-2025 00:00,Placed,Wipro,6
+S0806,Aditya Deshmukh,Female,Nashik,Digital Marketing,12-11-2025,35000,Nov-25,Dropped,,,,
+S0807,Pratik Gupta,Female,Pune,Full Stack Development,17-11-2024,50000,Nov-24,Ongoing,,,,
+S0808,Bhakti Sawant,Male,Nashik,Full Stack Development,09-08-2025,50000,Aug-25,Completed,28-10-2025 00:00,Placed,Accenture,7.1
+S0809,Nikhil Singh,Female,Nashik,Digital Marketing,25-08-2025,35000,Aug-25,Ongoing,,,,
+S0810,Amit Kale,Male,Mumbai,Cyber Security,04-03-2025,55000,Mar-25,Ongoing,,,,
+S0811,Anjali Verma,Male,Mumbai,Digital Marketing,29-07-2024,35000,Jul-24,Ongoing,,,,
+S0812,Manish Chavan,Male,Mumbai,UI/UX Design,20-09-2025,30000,Sep-25,Completed,01-12-2025 00:00,Placed,Accenture,5.8
+S0813,Harsh Patil,Male,Aurangabad,Digital Marketing,12-05-2025,35000,May-25,Completed,06-09-2025 00:00,Not Placed,,
+S0814,Aditi Verma,Male,Aurangabad,Digital Marketing,27-03-2024,35000,Mar-24,Ongoing,,,,
+S0815,Neha Kale,Male,Mumbai,Cyber Security,25-10-2024,55000,Oct-24,Completed,19-01-2025 00:00,Placed,Capgemini,4.5
+S0816,Kavya Patil,Male,Nagpur,UI/UX Design,23-11-2025,30000,Nov-25,Ongoing,,,,
+S0817,Harsh More,Female,Nagpur,Full Stack Development,17-09-2024,50000,Sep-24,Completed,25-11-2024 00:00,Placed,Wipro,4.4
+S0818,Arjun Patil,Female,Aurangabad,Full Stack Development,05-06-2024,50000,Jun-24,Ongoing,,,,
+S0819,Tanvi Mishra,Female,Aurangabad,Data Analytics,04-09-2024,45000,Sep-24,Dropped,,,,
+S0820,Tanvi Naik,Female,Nashik,Data Analytics,15-06-2024,45000,Jun-24,Completed,22-09-2024 00:00,Not Placed,,
+S0821,Arjun Singh,Female,Nagpur,UI/UX Design,08-01-2024,30000,Jan-24,Ongoing,,,,
+S0822,Sneha Pawar,Female,Nagpur,UI/UX Design,31-08-2025,30000,Aug-25,Completed,28-12-2025 00:00,Not Placed,,
+S0823,Vikram Singh,Female,Aurangabad,UI/UX Design,22-09-2024,30000,Sep-24,Completed,21-11-2024 00:00,Placed,TCS,6.1
+S0824,Rahul Deshmukh,Female,Pune,Cyber Security,14-02-2025,55000,Feb-25,Completed,21-04-2025 00:00,Placed,Wipro,6.1
+S0825,Tejas Mishra,Female,Mumbai,UI/UX Design,31-08-2025,30000,Aug-25,Completed,29-11-2025 00:00,Not Placed,,
+S0826,Vikram Chavan,Female,Mumbai,Digital Marketing,28-02-2024,35000,Feb-24,Ongoing,,,,
+S0827,Pratik Yadav,Male,Aurangabad,Full Stack Development,26-05-2025,50000,May-25,Completed,12-09-2025 00:00,Not Placed,,
+S0828,Meera Naik,Male,Pune,Digital Marketing,13-10-2024,35000,Oct-24,Ongoing,,,,
+S0829,Sneha Chavan,Male,Nagpur,UI/UX Design,01-12-2024,30000,Dec-24,Ongoing,,,,
+S0830,Meera Singh,Female,Pune,UI/UX Design,28-05-2025,30000,May-25,Ongoing,,,,
+S0831,Yash Singh,Male,Nashik,Cyber Security,02-11-2024,55000,Nov-24,Completed,01-02-2025 00:00,Placed,Wipro,7
+S0832,Amit More,Female,Nagpur,Digital Marketing,21-09-2024,35000,Sep-24,Ongoing,,,,
+S0833,Neha Rane,Female,Mumbai,Full Stack Development,16-12-2025,50000,Dec-25,Ongoing,,,,
+S0834,Sagar Sharma,Male,Mumbai,Cyber Security,02-12-2024,55000,Dec-24,Completed,21-03-2025 00:00,Placed,Capgemini,3
+S0835,Priya Kale,Male,Aurangabad,Full Stack Development,22-02-2024,50000,Feb-24,Ongoing,,,,
+S0836,Sneha Jadhav,Male,Nagpur,Cyber Security,09-11-2025,55000,Nov-25,Ongoing,,,,
+S0837,Vikram Mishra,Female,Aurangabad,Digital Marketing,16-06-2025,35000,Jun-25,Ongoing,,,,
+S0838,Shruti Mehta,Male,Nagpur,Data Analytics,29-07-2024,45000,Jul-24,Completed,08-10-2024 00:00,Not Placed,,
+S0839,Priya Yadav,Female,Mumbai,Full Stack Development,25-06-2025,50000,Jun-25,Completed,26-08-2025 00:00,Not Placed,,
+S0840,Nikhil Mehta,Male,Nagpur,UI/UX Design,10-11-2025,30000,Nov-25,Completed,08-02-2026 00:00,Not Placed,,
+S0841,Tanvi Verma,Female,Nagpur,Digital Marketing,23-02-2025,35000,Feb-25,Ongoing,,,,
+S0842,Pooja Joshi,Female,Nashik,UI/UX Design,16-02-2025,30000,Feb-25,Completed,15-06-2025 00:00,Placed,Wipro,7.9
+S0843,Arjun Pawar,Male,Nashik,Data Analytics,02-11-2025,45000,Nov-25,Completed,24-01-2026 00:00,Not Placed,,
+S0844,Yash Naik,Male,Pune,Cyber Security,13-07-2025,55000,Jul-25,Completed,06-10-2025 00:00,Placed,TCS,7.9
+S0845,Rahul Verma,Male,Aurangabad,Full Stack Development,14-11-2024,50000,Nov-24,Ongoing,,,,
+S0846,Riya Mehta,Female,Nashik,Full Stack Development,01-09-2024,50000,Sep-24,Dropped,,,,
+S0847,Tejas Deshmukh,Female,Nagpur,Full Stack Development,24-07-2025,50000,Jul-25,Completed,09-10-2025 00:00,Not Placed,,
+S0848,Aditi Mishra,Female,Mumbai,Digital Marketing,16-02-2025,35000,Feb-25,Ongoing,,,,
+S0849,Rahul Chavan,Female,Pune,Cyber Security,03-09-2025,55000,Sep-25,Completed,15-12-2025 00:00,Placed,Accenture,5.2
+S0850,Tanvi Gupta,Female,Mumbai,Digital Marketing,26-04-2025,35000,Apr-25,Dropped,,,,
+S0851,Pratik Gupta,Female,Aurangabad,Full Stack Development,18-09-2024,50000,Sep-24,Ongoing,,,,
+S0852,Amit Gupta,Male,Nagpur,UI/UX Design,26-11-2025,30000,Nov-25,Completed,06-03-2026 00:00,Placed,Infosys,3.8
+S0853,Sagar Shinde,Male,Nashik,Full Stack Development,03-12-2024,50000,Dec-24,Completed,24-02-2025 00:00,Not Placed,,
+S0854,Bhakti More,Male,Nashik,Data Analytics,24-02-2025,45000,Feb-25,Completed,18-06-2025 00:00,Placed,Accenture,6.3
+S0855,Kavya Rane,Male,Pune,UI/UX Design,10-01-2025,30000,Jan-25,Completed,19-03-2025 00:00,Placed,Wipro,4.7
+S0856,Manish Gupta,Male,Mumbai,Data Analytics,24-10-2024,45000,Oct-24,Completed,09-01-2025 00:00,Placed,Wipro,5
+S0857,Meera Yadav,Male,Nagpur,Full Stack Development,11-12-2024,50000,Dec-24,Completed,08-03-2025 00:00,Not Placed,,
+S0858,Aditya Mishra,Female,Nagpur,Cyber Security,20-01-2024,55000,Jan-24,Ongoing,,,,
+S0859,Swati Gupta,Female,Pune,Cyber Security,17-11-2024,55000,Nov-24,Completed,21-02-2025 00:00,Not Placed,,
+S0860,Amit Jadhav,Female,Pune,Cyber Security,28-06-2024,55000,Jun-24,Completed,31-08-2024 00:00,Not Placed,,
+S0861,Tejas Shinde,Male,Aurangabad,Full Stack Development,07-01-2025,50000,Jan-25,Completed,12-03-2025 00:00,Placed,Capgemini,7.6
+S0862,Aditi Gupta,Male,Nashik,Full Stack Development,24-12-2025,50000,Dec-25,Completed,22-02-2026 00:00,Placed,Wipro,3.3
+S0863,Riya Mishra,Male,Mumbai,Digital Marketing,26-05-2025,35000,May-25,Completed,06-08-2025 00:00,Placed,TCS,6.1
+S0864,Rohit Rane,Female,Aurangabad,Full Stack Development,03-01-2025,50000,Jan-25,Completed,08-04-2025 00:00,Placed,Infosys,6.8
+S0865,Pooja Joshi,Male,Aurangabad,Data Analytics,08-01-2025,45000,Jan-25,Completed,26-03-2025 00:00,Not Placed,,
+S0866,Bhakti Mehta,Female,Nashik,Digital Marketing,16-08-2024,35000,Aug-24,Completed,29-11-2024 00:00,Not Placed,,
+S0867,Shruti Shinde,Female,Pune,UI/UX Design,22-12-2024,30000,Dec-24,Completed,25-03-2025 00:00,Placed,Wipro,7.6
+S0868,Aditya Sharma,Female,Nagpur,UI/UX Design,28-01-2025,30000,Jan-25,Dropped,,,,
+S0869,Sneha Sawant,Male,Mumbai,Full Stack Development,26-08-2025,50000,Aug-25,Ongoing,,,,
+S0870,Swati Pawar,Female,Mumbai,Cyber Security,03-04-2024,55000,Apr-24,Completed,31-07-2024 00:00,Placed,Accenture,4.1
+S0871,Amit Sharma,Male,Nashik,Cyber Security,16-04-2024,55000,Apr-24,Completed,11-08-2024 00:00,Placed,TCS,6.1
+S0872,Pratik Pawar,Male,Mumbai,Data Analytics,28-04-2025,45000,Apr-25,Completed,18-08-2025 00:00,Not Placed,,
+S0873,Bhakti Shinde,Female,Pune,UI/UX Design,17-03-2025,30000,Mar-25,Ongoing,,,,
+S0874,Manish Patil,Female,Nagpur,Full Stack Development,23-11-2025,50000,Nov-25,Completed,13-02-2026 00:00,Not Placed,,
+S0875,Priya Kale,Female,Aurangabad,Cyber Security,24-10-2025,55000,Oct-25,Completed,23-01-2026 00:00,Placed,Wipro,5.8
+S0876,Komal Kulkarni,Male,Nagpur,Full Stack Development,20-08-2024,50000,Aug-24,Completed,02-11-2024 00:00,Not Placed,,
+S0877,Pooja Deshmukh,Female,Mumbai,Full Stack Development,13-01-2025,50000,Jan-25,Completed,10-05-2025 00:00,Placed,Accenture,6.1
+S0878,Shruti Mehta,Female,Aurangabad,Cyber Security,25-10-2024,55000,Oct-24,Completed,02-01-2025 00:00,Placed,Infosys,7.5
+S0879,Tanvi Mehta,Female,Mumbai,Cyber Security,01-06-2024,55000,Jun-24,Completed,24-09-2024 00:00,Placed,Capgemini,5.9
+S0880,Rohit More,Male,Aurangabad,Data Analytics,13-05-2024,45000,May-24,Completed,22-08-2024 00:00,Placed,Capgemini,5.4
+S0881,Harsh Rane,Female,Mumbai,Digital Marketing,12-06-2024,35000,Jun-24,Ongoing,,,,
+S0882,Anjali Pawar,Female,Aurangabad,Full Stack Development,22-01-2025,50000,Jan-25,Completed,03-04-2025 00:00,Not Placed,,
+S0883,Arjun Jadhav,Female,Nagpur,Data Analytics,29-04-2024,45000,Apr-24,Ongoing,,,,
+S0884,Swati Gupta,Female,Mumbai,UI/UX Design,07-12-2024,30000,Dec-24,Ongoing,,,,
+S0885,Kavya Kale,Female,Aurangabad,Full Stack Development,17-08-2025,50000,Aug-25,Completed,17-10-2025 00:00,Placed,Infosys,7.4
+S0886,Swati Joshi,Female,Nagpur,Full Stack Development,26-05-2025,50000,May-25,Completed,18-08-2025 00:00,Not Placed,,
+S0887,Pratik Sharma,Male,Aurangabad,Cyber Security,28-04-2024,55000,Apr-24,Completed,21-08-2024 00:00,Placed,Capgemini,7.2
+S0888,Neha Mehta,Female,Nashik,Cyber Security,15-02-2025,55000,Feb-25,Completed,09-06-2025 00:00,Placed,Capgemini,5.1
+S0889,Meera Yadav,Male,Aurangabad,Data Analytics,30-09-2025,45000,Sep-25,Completed,30-11-2025 00:00,Placed,Accenture,3.5
+S0890,Sagar Jadhav,Female,Aurangabad,Full Stack Development,21-11-2025,50000,Nov-25,Ongoing,,,,
+S0891,Arjun Deshmukh,Male,Pune,Digital Marketing,17-12-2024,35000,Dec-24,Completed,26-03-2025 00:00,Placed,Infosys,5.8
+S0892,Pooja Mishra,Male,Aurangabad,Digital Marketing,07-06-2024,35000,Jun-24,Dropped,,,,
+S0893,Manish Kulkarni,Male,Nagpur,UI/UX Design,16-09-2025,30000,Sep-25,Ongoing,,,,
+S0894,Meera More,Female,Aurangabad,Full Stack Development,02-01-2024,50000,Jan-24,Ongoing,,,,
+S0895,Rahul Rane,Female,Nagpur,Data Analytics,23-02-2025,45000,Feb-25,Completed,05-06-2025 00:00,Not Placed,,
+S0896,Vikram Chavan,Male,Mumbai,UI/UX Design,16-05-2025,30000,May-25,Completed,21-08-2025 00:00,Placed,TCS,3.8
+S0897,Yash Kale,Male,Mumbai,Full Stack Development,17-04-2025,50000,Apr-25,Completed,27-06-2025 00:00,Placed,Infosys,4.7
+S0898,Yash Deshmukh,Male,Aurangabad,Full Stack Development,01-07-2024,50000,Jul-24,Completed,05-09-2024 00:00,Placed,Wipro,5.4
+S0899,Aditi Patil,Female,Aurangabad,Full Stack Development,21-09-2024,50000,Sep-24,Completed,11-12-2024 00:00,Placed,Capgemini,5.7
+S0900,Neha More,Female,Pune,UI/UX Design,27-08-2024,30000,Aug-24,Completed,19-12-2024 00:00,Placed,Wipro,4.2
+S0901,Aditya Rane,Female,Mumbai,UI/UX Design,25-06-2025,30000,Jun-25,Completed,24-09-2025 00:00,Placed,TCS,3.7
+S0902,Swati Singh,Male,Nagpur,Full Stack Development,06-09-2024,50000,Sep-24,Completed,25-12-2024 00:00,Not Placed,,
+S0903,Amit Gupta,Female,Pune,Full Stack Development,22-01-2024,50000,Jan-24,Completed,29-03-2024 00:00,Not Placed,,
+S0904,Sneha Mishra,Male,Mumbai,Cyber Security,17-08-2024,55000,Aug-24,Completed,05-12-2024 00:00,Placed,Accenture,3
+S0905,Omkar Mishra,Male,Pune,Data Analytics,25-02-2024,45000,Feb-24,Completed,25-04-2024 00:00,Placed,Accenture,3.3
+S0906,Kavya Kulkarni,Female,Pune,UI/UX Design,23-10-2024,30000,Oct-24,Ongoing,,,,
+S0907,Anjali Patil,Female,Pune,UI/UX Design,02-08-2024,30000,Aug-24,Completed,04-10-2024 00:00,Placed,Capgemini,4.8
+S0908,Harsh Pawar,Male,Nagpur,Full Stack Development,16-10-2025,50000,Oct-25,Completed,29-01-2026 00:00,Placed,Capgemini,4
+S0909,Anjali Kulkarni,Female,Pune,Full Stack Development,23-09-2025,50000,Sep-25,Completed,05-01-2026 00:00,Placed,Capgemini,3.8
+S0910,Arjun Deshmukh,Male,Mumbai,Cyber Security,30-04-2025,55000,Apr-25,Completed,02-08-2025 00:00,Not Placed,,
+S0911,Pratik Shinde,Female,Nagpur,Cyber Security,31-07-2025,55000,Jul-25,Completed,13-10-2025 00:00,Placed,Infosys,5.7
+S0912,Rohit Sharma,Female,Nagpur,Cyber Security,20-05-2024,55000,May-24,Ongoing,,,,
+S0913,Sagar More,Male,Pune,Cyber Security,21-06-2024,55000,Jun-24,Completed,04-10-2024 00:00,Not Placed,,
+S0914,Arjun Deshmukh,Female,Pune,Cyber Security,06-04-2025,55000,Apr-25,Completed,12-06-2025 00:00,Placed,Wipro,4.2
+S0915,Pooja More,Male,Nashik,UI/UX Design,31-01-2024,30000,Jan-24,Completed,07-05-2024 00:00,Placed,TCS,4.1
+S0916,Pratik Patil,Female,Aurangabad,Digital Marketing,02-03-2025,35000,Mar-25,Ongoing,,,,
+S0917,Riya Verma,Female,Nagpur,Cyber Security,06-02-2024,55000,Feb-24,Ongoing,,,,
+S0918,Kunal Gupta,Male,Nagpur,Digital Marketing,01-01-2024,35000,Jan-24,Completed,08-04-2024 00:00,Placed,Wipro,5.6
+S0919,Rahul Jadhav,Male,Aurangabad,UI/UX Design,02-02-2025,30000,Feb-25,Completed,11-04-2025 00:00,Not Placed,,
+S0920,Omkar Mishra,Male,Pune,Digital Marketing,01-03-2025,35000,Mar-25,Completed,10-06-2025 00:00,Placed,Infosys,7.2
+S0921,Omkar Gupta,Female,Pune,Full Stack Development,17-06-2025,50000,Jun-25,Completed,16-08-2025 00:00,Placed,Capgemini,6.3
+S0922,Yash Sawant,Male,Mumbai,UI/UX Design,15-11-2024,30000,Nov-24,Dropped,,,,
+S0923,Nikhil Joshi,Male,Nagpur,Cyber Security,22-12-2025,55000,Dec-25,Ongoing,,,,
+S0924,Aditi More,Male,Mumbai,UI/UX Design,05-06-2025,30000,Jun-25,Ongoing,,,,
+S0925,Amit Sharma,Female,Nashik,Data Analytics,06-07-2025,45000,Jul-25,Completed,16-10-2025 00:00,Placed,Wipro,6.4
+S0926,Rahul More,Female,Nagpur,UI/UX Design,29-03-2024,30000,Mar-24,Ongoing,,,,
+S0927,Rohit Pawar,Male,Mumbai,Digital Marketing,25-06-2024,35000,Jun-24,Completed,03-09-2024 00:00,Not Placed,,
+S0928,Neha Chavan,Female,Nagpur,Data Analytics,23-01-2025,45000,Jan-25,Ongoing,,,,
+S0929,Rohit Joshi,Female,Pune,Data Analytics,30-06-2025,45000,Jun-25,Completed,18-10-2025 00:00,Placed,TCS,7
+S0930,Vikram Gupta,Male,Pune,Digital Marketing,28-05-2025,35000,May-25,Completed,31-07-2025 00:00,Placed,Infosys,5.6
+S0931,Yash Pawar,Female,Pune,Full Stack Development,27-07-2024,50000,Jul-24,Completed,13-10-2024 00:00,Not Placed,,
+S0932,Shruti Shinde,Male,Nashik,Cyber Security,19-06-2024,55000,Jun-24,Ongoing,,,,
+S0933,Manish Deshmukh,Male,Nagpur,Data Analytics,11-02-2024,45000,Feb-24,Dropped,,,,
+S0934,Kunal Pawar,Male,Nagpur,Full Stack Development,22-11-2025,50000,Nov-25,Dropped,,,,
+S0935,Pratik Singh,Female,Pune,Full Stack Development,09-01-2025,50000,Jan-25,Dropped,,,,
+S0936,Manish Chavan,Male,Mumbai,Cyber Security,05-02-2024,55000,Feb-24,Completed,06-04-2024 00:00,Placed,Wipro,4.8
+S0937,Shruti Kulkarni,Male,Nagpur,Cyber Security,08-08-2024,55000,Aug-24,Ongoing,,,,
+S0938,Shruti Verma,Male,Pune,Data Analytics,14-12-2024,45000,Dec-24,Ongoing,,,,
+S0939,Pratik Sharma,Female,Mumbai,Full Stack Development,24-12-2025,50000,Dec-25,Dropped,,,,
+S0940,Komal Joshi,Male,Nagpur,Cyber Security,15-12-2025,55000,Dec-25,Completed,10-03-2026 00:00,Not Placed,,
+S0941,Riya Rane,Female,Aurangabad,Data Analytics,01-01-2025,45000,Jan-25,Ongoing,,,,
+S0942,Isha More,Male,Pune,Cyber Security,26-03-2025,55000,Mar-25,Completed,28-06-2025 00:00,Not Placed,,
+S0943,Riya Pawar,Female,Pune,Cyber Security,20-09-2025,55000,Sep-25,Dropped,,,,
+S0944,Tanvi Chavan,Female,Mumbai,Digital Marketing,30-10-2024,35000,Oct-24,Dropped,,,,
+S0945,Rohit Yadav,Female,Nagpur,Cyber Security,21-08-2025,55000,Aug-25,Completed,01-12-2025 00:00,Not Placed,,
+S0946,Arjun Jadhav,Male,Nashik,Cyber Security,15-03-2025,55000,Mar-25,Completed,10-07-2025 00:00,Placed,TCS,5.9
+S0947,Priya Gupta,Female,Nagpur,Full Stack Development,18-05-2024,50000,May-24,Completed,18-08-2024 00:00,Not Placed,,
+S0948,Riya Singh,Female,Pune,Cyber Security,20-08-2025,55000,Aug-25,Completed,07-12-2025 00:00,Placed,Accenture,3.6
+S0949,Komal Mehta,Male,Nashik,Full Stack Development,21-08-2025,50000,Aug-25,Ongoing,,,,
+S0950,Priya Chavan,Female,Pune,UI/UX Design,23-12-2025,30000,Dec-25,Ongoing,,,,
+S0951,Arjun Jadhav,Male,Nashik,Cyber Security,22-09-2024,55000,Sep-24,Ongoing,,,,
+S0952,Vikram Mishra,Male,Pune,Full Stack Development,19-05-2025,50000,May-25,Dropped,,,,
+S0953,Tanvi Sharma,Male,Pune,Cyber Security,11-08-2025,55000,Aug-25,Completed,07-11-2025 00:00,Placed,Wipro,7.6
+S0954,Meera Gupta,Female,Pune,UI/UX Design,25-06-2025,30000,Jun-25,Completed,28-09-2025 00:00,Not Placed,,
+S0955,Isha Shinde,Female,Aurangabad,UI/UX Design,04-10-2025,30000,Oct-25,Dropped,,,,
+S0956,Yash Joshi,Female,Pune,Data Analytics,10-06-2024,45000,Jun-24,Ongoing,,,,
+S0957,Shruti Pawar,Female,Aurangabad,Cyber Security,29-03-2024,55000,Mar-24,Completed,02-06-2024 00:00,Placed,Wipro,5.1
+S0958,Shruti Kulkarni,Female,Nagpur,UI/UX Design,30-06-2025,30000,Jun-25,Completed,04-09-2025 00:00,Not Placed,,
+S0959,Manish Singh,Male,Nagpur,Cyber Security,06-04-2024,55000,Apr-24,Ongoing,,,,
+S0960,Kunal More,Male,Nagpur,Full Stack Development,09-02-2024,50000,Feb-24,Ongoing,,,,
+S0961,Swati Mehta,Female,Mumbai,UI/UX Design,16-01-2025,30000,Jan-25,Completed,11-05-2025 00:00,Placed,Capgemini,3.2
+S0962,Isha Naik,Female,Pune,Digital Marketing,18-03-2024,35000,Mar-24,Dropped,,,,
+S0963,Pooja Mishra,Male,Nagpur,Digital Marketing,01-04-2025,35000,Apr-25,Ongoing,,,,
+S0964,Aditya Chavan,Male,Nagpur,Digital Marketing,06-07-2025,35000,Jul-25,Completed,12-09-2025 00:00,Placed,Wipro,4.2
+S0965,Riya Gupta,Male,Nashik,UI/UX Design,14-02-2024,30000,Feb-24,Dropped,,,,
+S0966,Isha Sharma,Female,Mumbai,UI/UX Design,08-10-2024,30000,Oct-24,Completed,09-01-2025 00:00,Placed,TCS,7.4
+S0967,Komal Pawar,Male,Nagpur,Data Analytics,16-04-2024,45000,Apr-24,Completed,12-07-2024 00:00,Not Placed,,
+S0968,Kunal Mehta,Female,Pune,Full Stack Development,28-05-2024,50000,May-24,Completed,19-09-2024 00:00,Not Placed,,
+S0969,Swati Patil,Female,Mumbai,UI/UX Design,26-11-2025,30000,Nov-25,Completed,28-02-2026 00:00,Placed,Wipro,4.9
+S0970,Tejas Deshmukh,Female,Nashik,Digital Marketing,23-10-2025,35000,Oct-25,Completed,27-01-2026 00:00,Placed,Capgemini,5.8
+S0971,Anjali Sharma,Male,Aurangabad,Digital Marketing,04-10-2024,35000,Oct-24,Completed,10-01-2025 00:00,Placed,Infosys,5.2
+S0972,Harsh Joshi,Female,Aurangabad,UI/UX Design,07-04-2025,30000,Apr-25,Ongoing,,,,
+S0973,Tanvi Singh,Male,Aurangabad,Digital Marketing,26-02-2024,35000,Feb-24,Dropped,,,,
+S0974,Komal Pawar,Female,Pune,Digital Marketing,30-08-2025,35000,Aug-25,Completed,08-11-2025 00:00,Placed,TCS,4.9
+S0975,Harsh Shinde,Female,Aurangabad,UI/UX Design,29-01-2025,30000,Jan-25,Completed,21-04-2025 00:00,Not Placed,,
+S0976,Tejas Rane,Female,Mumbai,Data Analytics,20-05-2024,45000,May-24,Ongoing,,,,
+S0977,Aditya Gupta,Male,Nashik,Full Stack Development,05-11-2024,50000,Nov-24,Completed,05-01-2025 00:00,Placed,Capgemini,6
+S0978,Yash Jadhav,Female,Nashik,Cyber Security,19-08-2024,55000,Aug-24,Completed,02-12-2024 00:00,Not Placed,,
+S0979,Aditi Singh,Female,Aurangabad,UI/UX Design,09-10-2024,30000,Oct-24,Completed,18-01-2025 00:00,Placed,Wipro,6.5
+S0980,Pratik Mehta,Female,Nashik,UI/UX Design,03-05-2024,30000,May-24,Completed,20-07-2024 00:00,Not Placed,,
+S0981,Kavya Kulkarni,Male,Mumbai,Full Stack Development,13-06-2024,50000,Jun-24,Ongoing,,,,
+S0982,Isha Shinde,Female,Nagpur,Data Analytics,05-03-2025,45000,Mar-25,Ongoing,,,,
+S0983,Komal Shinde,Male,Nashik,Cyber Security,09-09-2025,55000,Sep-25,Completed,25-11-2025 00:00,Placed,Capgemini,5.8
+S0984,Tanvi Shinde,Male,Pune,Full Stack Development,19-08-2025,50000,Aug-25,Completed,10-11-2025 00:00,Not Placed,,
+S0985,Neha Naik,Male,Nagpur,Cyber Security,09-01-2025,55000,Jan-25,Ongoing,,,,
+S0986,Harsh Yadav,Male,Pune,UI/UX Design,18-10-2024,30000,Oct-24,Completed,17-01-2025 00:00,Placed,Infosys,5.8
+S0987,Amit Joshi,Female,Pune,Digital Marketing,10-05-2024,35000,May-24,Completed,14-07-2024 00:00,Not Placed,,
+S0988,Priya Sharma,Male,Mumbai,Full Stack Development,25-06-2024,50000,Jun-24,Completed,08-09-2024 00:00,Placed,TCS,5.2
+S0989,Sneha Yadav,Female,Nashik,Full Stack Development,01-02-2024,50000,Feb-24,Ongoing,,,,
+S0990,Meera Joshi,Female,Aurangabad,UI/UX Design,16-05-2024,30000,May-24,Completed,18-08-2024 00:00,Placed,TCS,4.8
+S0991,Swati Mehta,Male,Mumbai,Cyber Security,20-01-2025,55000,Jan-25,Ongoing,,,,
+S0992,Meera Kale,Female,Pune,UI/UX Design,04-11-2025,30000,Nov-25,Ongoing,,,,
+S0993,Priya Rane,Male,Nagpur,Cyber Security,11-09-2025,55000,Sep-25,Ongoing,,,,
+S0994,Harsh Deshmukh,Male,Pune,UI/UX Design,02-09-2024,30000,Sep-24,Completed,23-11-2024 00:00,Placed,Infosys,3.8
+S0995,Shruti Sharma,Female,Nagpur,Full Stack Development,23-11-2024,50000,Nov-24,Completed,25-02-2025 00:00,Placed,Infosys,4.9
+S0996,Shruti Shinde,Male,Nagpur,Data Analytics,22-02-2024,45000,Feb-24,Ongoing,,,,
+S0997,Aditya Jadhav,Male,Nagpur,Full Stack Development,21-04-2024,50000,Apr-24,Completed,19-08-2024 00:00,Not Placed,,
+S0998,Meera Deshmukh,Female,Aurangabad,Full Stack Development,24-10-2024,50000,Oct-24,Completed,09-01-2025 00:00,Not Placed,,
+S0999,Isha Deshmukh,Male,Nagpur,UI/UX Design,29-05-2024,30000,May-24,Completed,25-08-2024 00:00,Placed,Accenture,6.6
+S1000,Bhakti Shinde,Female,Aurangabad,Data Analytics,08-10-2024,45000,Oct-24,Ongoing,,,,
+S1001,Kavya More,Female,Pune,Cyber Security,18-03-2024,55000,Mar-24,Completed,20-05-2024 00:00,Placed,Accenture,3.6
+S1002,Riya Shinde,Male,Aurangabad,UI/UX Design,15-02-2025,30000,Feb-25,Completed,14-05-2025 00:00,Placed,Accenture,5.5
+S1003,Nikhil Deshmukh,Female,Pune,UI/UX Design,11-01-2024,30000,Jan-24,Completed,22-04-2024 00:00,Not Placed,,
+S1004,Meera Deshmukh,Male,Nashik,Cyber Security,02-12-2024,55000,Dec-24,Ongoing,,,,
+S1005,Aditya Verma,Female,Mumbai,Full Stack Development,03-04-2024,50000,Apr-24,Completed,27-07-2024 00:00,Placed,Wipro,6.2
+S1006,Anjali Gupta,Male,Nagpur,Cyber Security,13-09-2024,55000,Sep-24,Dropped,,,,
+S1007,Amit Shinde,Male,Mumbai,Data Analytics,02-04-2025,45000,Apr-25,Ongoing,,,,
+S1008,Kavya Chavan,Male,Pune,Full Stack Development,08-04-2024,50000,Apr-24,Dropped,,,,
+S1009,Komal Naik,Female,Mumbai,Data Analytics,28-04-2024,45000,Apr-24,Completed,21-07-2024 00:00,Placed,Infosys,6.8
+S1010,Rohit Pawar,Female,Aurangabad,Full Stack Development,13-02-2024,50000,Feb-24,Completed,16-05-2024 00:00,Placed,Accenture,3.4
+S1011,Arjun Deshmukh,Female,Mumbai,Full Stack Development,13-04-2024,50000,Apr-24,Ongoing,,,,
+S1012,Arjun Mehta,Female,Nashik,Data Analytics,09-06-2024,45000,Jun-24,Ongoing,,,,
+S1013,Bhakti Joshi,Female,Nagpur,Cyber Security,18-09-2025,55000,Sep-25,Completed,13-12-2025 00:00,Placed,Wipro,7.2
+S1014,Bhakti Rane,Male,Pune,Full Stack Development,13-08-2025,50000,Aug-25,Completed,29-11-2025 00:00,Placed,TCS,7
+S1015,Swati More,Male,Nashik,UI/UX Design,14-09-2025,30000,Sep-25,Dropped,,,,
+S1016,Vikram More,Male,Aurangabad,Full Stack Development,03-11-2025,50000,Nov-25,Completed,25-02-2026 00:00,Placed,Capgemini,5.9
+S1017,Arjun More,Female,Nagpur,Digital Marketing,14-10-2025,35000,Oct-25,Ongoing,,,,
+S1018,Anjali Patil,Male,Mumbai,Data Analytics,14-02-2024,45000,Feb-24,Ongoing,,,,
+S1019,Bhakti Mehta,Male,Pune,Full Stack Development,22-11-2024,50000,Nov-24,Ongoing,,,,
+S1020,Manish Rane,Female,Aurangabad,Cyber Security,30-01-2024,55000,Jan-24,Completed,03-05-2024 00:00,Placed,Infosys,6.8
+S1021,Omkar Mishra,Female,Aurangabad,Data Analytics,26-04-2025,45000,Apr-25,Dropped,,,,
+S1022,Neha Jadhav,Male,Mumbai,UI/UX Design,03-05-2025,30000,May-25,Completed,17-07-2025 00:00,Placed,Accenture,6.1
+S1023,Riya Verma,Male,Nagpur,UI/UX Design,21-10-2025,30000,Oct-25,Dropped,,,,
+S1024,Neha Rane,Male,Nagpur,Full Stack Development,24-11-2024,50000,Nov-24,Ongoing,,,,
+S1025,Shruti Deshmukh,Male,Nashik,UI/UX Design,17-04-2025,30000,Apr-25,Ongoing,,,,
+S1026,Komal Mehta,Male,Nagpur,Full Stack Development,24-01-2025,50000,Jan-25,Completed,29-03-2025 00:00,Not Placed,,
+S1027,Kavya Mishra,Male,Pune,Cyber Security,27-12-2024,55000,Dec-24,Completed,26-02-2025 00:00,Placed,Accenture,5.3
+S1028,Sneha Yadav,Male,Nagpur,Cyber Security,05-03-2024,55000,Mar-24,Completed,22-05-2024 00:00,Placed,Capgemini,7.8
+S1029,Manish Mishra,Male,Nashik,Full Stack Development,29-05-2025,50000,May-25,Ongoing,,,,
+S1030,Kavya Chavan,Male,Nashik,Full Stack Development,29-10-2025,50000,Oct-25,Completed,06-01-2026 00:00,Not Placed,,
+S1031,Tejas Kulkarni,Male,Nagpur,UI/UX Design,25-02-2024,30000,Feb-24,Completed,03-05-2024 00:00,Placed,Wipro,5.2
+S1032,Meera Jadhav,Male,Mumbai,Digital Marketing,14-09-2024,35000,Sep-24,Ongoing,,,,
+S1033,Anjali Mishra,Female,Pune,Data Analytics,01-03-2024,45000,Mar-24,Completed,19-05-2024 00:00,Placed,Infosys,7.4
+S1034,Neha Patil,Male,Nagpur,Cyber Security,04-07-2025,55000,Jul-25,Completed,21-09-2025 00:00,Placed,Accenture,5.5
+S1035,Pooja Patil,Female,Nagpur,Cyber Security,05-09-2025,55000,Sep-25,Completed,05-11-2025 00:00,Not Placed,,
+S1036,Kavya More,Female,Mumbai,UI/UX Design,10-07-2024,30000,Jul-24,Completed,14-09-2024 00:00,Placed,Infosys,5.5
+S1037,Pratik Rane,Male,Aurangabad,Digital Marketing,29-04-2025,35000,Apr-25,Ongoing,,,,
+S1038,Tanvi Gupta,Female,Pune,Full Stack Development,11-07-2025,50000,Jul-25,Completed,28-09-2025 00:00,Placed,Infosys,7.9
+S1039,Anjali Shinde,Male,Nagpur,Full Stack Development,21-03-2024,50000,Mar-24,Dropped,,,,
+S1040,Yash Jadhav,Female,Aurangabad,Data Analytics,22-12-2025,45000,Dec-25,Completed,31-03-2026 00:00,Placed,Capgemini,5.7
+S1041,Swati Yadav,Male,Nagpur,Full Stack Development,01-07-2024,50000,Jul-24,Completed,19-10-2024 00:00,Not Placed,,
+S1042,Rahul Joshi,Male,Pune,Cyber Security,08-08-2024,55000,Aug-24,Ongoing,,,,
+S1043,Amit Joshi,Female,Nagpur,UI/UX Design,18-03-2025,30000,Mar-25,Completed,31-05-2025 00:00,Not Placed,,
+S1044,Tanvi Yadav,Male,Aurangabad,Digital Marketing,22-03-2024,35000,Mar-24,Completed,26-06-2024 00:00,Placed,Accenture,7.7
+S1045,Tanvi Gupta,Male,Mumbai,Data Analytics,13-12-2024,45000,Dec-24,Dropped,,,,
+S1046,Yash Sawant,Female,Nashik,Cyber Security,03-12-2025,55000,Dec-25,Dropped,,,,
+S1047,Sneha Mehta,Female,Mumbai,Cyber Security,05-01-2024,55000,Jan-24,Ongoing,,,,
+S1048,Meera Chavan,Male,Aurangabad,Cyber Security,12-04-2024,55000,Apr-24,Completed,18-07-2024 00:00,Placed,Wipro,6.2
+S1049,Omkar Mehta,Male,Pune,Data Analytics,24-09-2025,45000,Sep-25,Completed,07-12-2025 00:00,Placed,Wipro,4.7
+S1050,Kunal Gupta,Male,Nashik,Cyber Security,23-02-2025,55000,Feb-25,Ongoing,,,,
+S1051,Anjali Chavan,Male,Nashik,UI/UX Design,08-02-2025,30000,Feb-25,Ongoing,,,,
+S1052,Pooja Shinde,Male,Nagpur,Full Stack Development,14-09-2025,50000,Sep-25,Completed,27-12-2025 00:00,Not Placed,,
+S1053,Komal Singh,Female,Aurangabad,Full Stack Development,07-03-2025,50000,Mar-25,Completed,23-06-2025 00:00,Placed,Wipro,3.4
+S1054,Sneha Chavan,Female,Nashik,UI/UX Design,06-08-2024,30000,Aug-24,Completed,08-11-2024 00:00,Placed,Accenture,4
+S1055,Bhakti Pawar,Male,Aurangabad,Cyber Security,29-04-2025,55000,Apr-25,Completed,10-07-2025 00:00,Placed,TCS,7.4
+S1056,Manish Pawar,Male,Mumbai,Data Analytics,15-03-2025,45000,Mar-25,Ongoing,,,,
+S1057,Rahul Yadav,Male,Aurangabad,Cyber Security,21-10-2025,55000,Oct-25,Ongoing,,,,
+S1058,Bhakti Yadav,Female,Pune,Cyber Security,12-03-2025,55000,Mar-25,Completed,21-06-2025 00:00,Not Placed,,
+S1059,Harsh Sawant,Male,Pune,Full Stack Development,24-09-2025,50000,Sep-25,Ongoing,,,,
+S1060,Riya Sharma,Male,Aurangabad,Full Stack Development,19-08-2025,50000,Aug-25,Completed,27-11-2025 00:00,Placed,Wipro,3.6
+S1061,Pratik Kale,Female,Nagpur,Cyber Security,15-03-2024,55000,Mar-24,Completed,04-06-2024 00:00,Placed,Wipro,6.8
+S1062,Yash More,Male,Nagpur,Full Stack Development,01-08-2024,50000,Aug-24,Completed,10-10-2024 00:00,Placed,TCS,4.5
+S1063,Neha Deshmukh,Female,Pune,Data Analytics,29-09-2025,45000,Sep-25,Completed,14-01-2026 00:00,Placed,TCS,6.3
+S1064,Rohit Mishra,Male,Mumbai,Full Stack Development,25-11-2024,50000,Nov-24,Completed,07-02-2025 00:00,Placed,Infosys,7.9
+S1065,Riya More,Female,Nagpur,Data Analytics,02-11-2024,45000,Nov-24,Ongoing,,,,
+S1066,Aditya Shinde,Male,Nashik,Data Analytics,08-01-2025,45000,Jan-25,Dropped,,,,
+S1067,Aditi Naik,Male,Mumbai,Data Analytics,31-08-2025,45000,Aug-25,Completed,28-11-2025 00:00,Placed,Accenture,5.9
+S1068,Sagar Patil,Female,Nashik,Data Analytics,15-05-2024,45000,May-24,Completed,28-07-2024 00:00,Placed,Wipro,5.9
+S1069,Isha Deshmukh,Male,Aurangabad,Cyber Security,12-12-2024,55000,Dec-24,Completed,31-03-2025 00:00,Not Placed,,
+S1070,Sneha Patil,Female,Nashik,Data Analytics,11-08-2025,45000,Aug-25,Dropped,,,,
+S1071,Swati Deshmukh,Female,Aurangabad,UI/UX Design,02-07-2025,30000,Jul-25,Ongoing,,,,
+S1072,Aditi Patil,Female,Pune,Full Stack Development,17-10-2024,50000,Oct-24,Completed,14-01-2025 00:00,Placed,Accenture,3.9
+S1073,Yash Jadhav,Female,Mumbai,Digital Marketing,12-01-2024,35000,Jan-24,Completed,05-05-2024 00:00,Placed,Accenture,6.2
+S1074,Vikram Kale,Male,Pune,Digital Marketing,29-10-2025,35000,Oct-25,Ongoing,,,,
+S1075,Kunal Joshi,Male,Aurangabad,Cyber Security,11-11-2025,55000,Nov-25,Completed,24-02-2026 00:00,Placed,Wipro,3
+S1076,Isha Pawar,Male,Pune,Data Analytics,27-02-2025,45000,Feb-25,Completed,01-06-2025 00:00,Placed,Wipro,5.9
+S1077,Swati Shinde,Female,Aurangabad,Data Analytics,13-12-2025,45000,Dec-25,Ongoing,,,,
+S1078,Shruti Kulkarni,Male,Mumbai,Data Analytics,06-02-2024,45000,Feb-24,Ongoing,,,,
+S1079,Bhakti Sharma,Male,Nagpur,Data Analytics,01-08-2024,45000,Aug-24,Ongoing,,,,
+S1080,Yash Sharma,Female,Mumbai,Digital Marketing,17-12-2025,35000,Dec-25,Completed,12-03-2026 00:00,Placed,Infosys,3.5
+S1081,Manish Mishra,Male,Pune,Full Stack Development,11-07-2024,50000,Jul-24,Completed,10-09-2024 00:00,Not Placed,,
+S1082,Priya Sawant,Male,Mumbai,UI/UX Design,02-08-2024,30000,Aug-24,Completed,10-10-2024 00:00,Not Placed,,
+S1083,Yash Deshmukh,Male,Nagpur,UI/UX Design,06-06-2025,30000,Jun-25,Ongoing,,,,
+S1084,Pratik Sharma,Female,Aurangabad,Data Analytics,07-07-2025,45000,Jul-25,Completed,20-09-2025 00:00,Not Placed,,
+S1085,Anjali Shinde,Female,Pune,Cyber Security,15-09-2025,55000,Sep-25,Completed,09-12-2025 00:00,Placed,Accenture,7.5
+S1086,Kavya Patil,Female,Aurangabad,Full Stack Development,17-09-2025,50000,Sep-25,Ongoing,,,,
+S1087,Nikhil Rane,Male,Aurangabad,UI/UX Design,31-12-2024,30000,Dec-24,Completed,09-04-2025 00:00,Placed,TCS,5.2
+S1088,Sneha Mehta,Female,Nagpur,Digital Marketing,23-12-2024,35000,Dec-24,Completed,15-04-2025 00:00,Placed,Wipro,5.6
+S1089,Meera Gupta,Female,Aurangabad,Digital Marketing,30-08-2024,35000,Aug-24,Completed,11-12-2024 00:00,Placed,Infosys,3
+S1090,Aditya Kulkarni,Female,Nashik,Cyber Security,18-12-2025,55000,Dec-25,Ongoing,,,,
+S1091,Rahul Kale,Female,Mumbai,UI/UX Design,10-11-2024,30000,Nov-24,Ongoing,,,,
+S1092,Sneha Deshmukh,Male,Nashik,Full Stack Development,22-03-2024,50000,Mar-24,Ongoing,,,,
+S1093,Meera Kale,Female,Nagpur,Data Analytics,01-06-2025,45000,Jun-25,Completed,08-08-2025 00:00,Placed,Accenture,3.1
+S1094,Aditya Singh,Male,Pune,Data Analytics,15-03-2025,45000,Mar-25,Ongoing,,,,
+S1095,Kunal Patil,Female,Mumbai,Data Analytics,06-06-2025,45000,Jun-25,Completed,21-09-2025 00:00,Placed,Capgemini,3.1
+S1096,Sagar Shinde,Female,Pune,Full Stack Development,18-07-2024,50000,Jul-24,Ongoing,,,,
+S1097,Shruti Kale,Male,Nagpur,Cyber Security,29-10-2025,55000,Oct-25,Completed,26-01-2026 00:00,Placed,Wipro,7
+S1098,Amit Mishra,Female,Nashik,Cyber Security,13-09-2025,55000,Sep-25,Completed,07-01-2026 00:00,Not Placed,,
+S1099,Komal Jadhav,Female,Nashik,Digital Marketing,21-05-2025,35000,May-25,Completed,13-08-2025 00:00,Placed,Accenture,5.3
+S1100,Isha Patil,Female,Nashik,Digital Marketing,15-11-2024,35000,Nov-24,Ongoing,,,,
+S1101,Neha Kulkarni,Female,Nashik,Digital Marketing,17-09-2025,35000,Sep-25,Completed,04-01-2026 00:00,Not Placed,,
+S1102,Vikram Shinde,Male,Aurangabad,Cyber Security,14-10-2024,55000,Oct-24,Completed,05-02-2025 00:00,Placed,Capgemini,4
+S1103,Vikram Rane,Female,Aurangabad,Full Stack Development,16-07-2025,50000,Jul-25,Ongoing,,,,
+S1104,Sneha Sharma,Male,Mumbai,Data Analytics,06-07-2025,45000,Jul-25,Completed,13-09-2025 00:00,Not Placed,,
+S1105,Tanvi Mishra,Male,Pune,Full Stack Development,17-07-2024,50000,Jul-24,Ongoing,,,,
+S1106,Amit Verma,Female,Pune,Cyber Security,17-10-2025,55000,Oct-25,Ongoing,,,,
+S1107,Kunal Singh,Male,Nagpur,UI/UX Design,30-05-2024,30000,May-24,Completed,16-08-2024 00:00,Placed,Infosys,6.5
+S1108,Komal Singh,Male,Aurangabad,Full Stack Development,17-12-2024,50000,Dec-24,Completed,06-03-2025 00:00,Placed,Wipro,5.9
+S1109,Sneha Patil,Female,Aurangabad,Cyber Security,24-08-2025,55000,Aug-25,Completed,23-10-2025 00:00,Placed,Accenture,6.6
+S1110,Swati Jadhav,Female,Nashik,Data Analytics,21-02-2024,45000,Feb-24,Ongoing,,,,
+S1111,Pratik Jadhav,Male,Mumbai,UI/UX Design,08-02-2025,30000,Feb-25,Completed,16-05-2025 00:00,Not Placed,,
+S1112,Swati Pawar,Male,Nashik,Data Analytics,06-11-2025,45000,Nov-25,Completed,20-01-2026 00:00,Placed,Wipro,3.5
+S1113,Nikhil Kale,Female,Nagpur,Data Analytics,11-02-2024,45000,Feb-24,Completed,25-05-2024 00:00,Placed,Capgemini,3.8
+S1114,Bhakti Kulkarni,Female,Mumbai,Digital Marketing,29-05-2025,35000,May-25,Completed,28-08-2025 00:00,Placed,Capgemini,3.6
+S1115,Omkar Yadav,Male,Nashik,Full Stack Development,13-09-2024,50000,Sep-24,Completed,18-12-2024 00:00,Placed,Infosys,4.4
+S1116,Aditi More,Male,Aurangabad,Cyber Security,23-04-2024,55000,Apr-24,Completed,15-07-2024 00:00,Placed,Capgemini,6.5
+S1117,Priya Mehta,Male,Mumbai,Cyber Security,22-10-2024,55000,Oct-24,Completed,23-01-2025 00:00,Placed,Wipro,4
+S1118,Aditya More,Female,Pune,Cyber Security,07-01-2025,55000,Jan-25,Ongoing,,,,
+S1119,Rohit Gupta,Male,Aurangabad,Data Analytics,08-09-2025,45000,Sep-25,Completed,26-11-2025 00:00,Placed,Accenture,7.4
+S1120,Neha Rane,Female,Pune,Cyber Security,26-02-2025,55000,Feb-25,Completed,13-06-2025 00:00,Placed,Capgemini,7.8
+S1121,Vikram Gupta,Male,Nagpur,Digital Marketing,28-06-2024,35000,Jun-24,Completed,05-09-2024 00:00,Not Placed,,
+S1122,Arjun Chavan,Male,Nashik,Digital Marketing,09-01-2025,35000,Jan-25,Completed,15-03-2025 00:00,Not Placed,,
+S1123,Bhakti Kulkarni,Female,Mumbai,UI/UX Design,13-02-2025,30000,Feb-25,Completed,14-04-2025 00:00,Placed,TCS,5.6
+S1124,Meera Patil,Male,Mumbai,Cyber Security,12-10-2025,55000,Oct-25,Ongoing,,,,
+S1125,Arjun Pawar,Male,Nagpur,UI/UX Design,12-08-2024,30000,Aug-24,Dropped,,,,
+S1126,Aditi Kulkarni,Female,Nashik,UI/UX Design,02-08-2025,30000,Aug-25,Completed,18-11-2025 00:00,Not Placed,,
+S1127,Meera Kulkarni,Female,Nashik,Digital Marketing,31-05-2024,35000,May-24,Ongoing,,,,
+S1128,Sagar Singh,Female,Nagpur,Full Stack Development,09-06-2025,50000,Jun-25,Completed,07-09-2025 00:00,Placed,Accenture,4
+S1129,Harsh Mishra,Male,Nagpur,Data Analytics,06-02-2025,45000,Feb-25,Completed,20-05-2025 00:00,Placed,Capgemini,4.3
+S1130,Aditi Gupta,Female,Nagpur,Cyber Security,12-06-2024,55000,Jun-24,Completed,15-09-2024 00:00,Not Placed,,
+S1131,Yash Patil,Male,Aurangabad,Cyber Security,22-08-2024,55000,Aug-24,Completed,18-12-2024 00:00,Placed,Capgemini,3.6
+S1132,Rohit Patil,Male,Nashik,Data Analytics,24-02-2024,45000,Feb-24,Ongoing,,,,
+S1133,Sagar Patil,Male,Pune,UI/UX Design,18-04-2025,30000,Apr-25,Dropped,,,,
+S1134,Pratik Mehta,Female,Mumbai,Digital Marketing,03-10-2024,35000,Oct-24,Completed,29-12-2024 00:00,Placed,Capgemini,5.6
+S1135,Aditya Verma,Female,Aurangabad,Full Stack Development,04-08-2024,50000,Aug-24,Completed,08-10-2024 00:00,Not Placed,,
+S1136,Swati Jadhav,Female,Nashik,Digital Marketing,12-11-2025,35000,Nov-25,Completed,30-01-2026 00:00,Placed,Wipro,5.9
+S1137,Manish Pawar,Female,Mumbai,UI/UX Design,11-12-2025,30000,Dec-25,Dropped,,,,
+S1138,Shruti Joshi,Female,Nashik,UI/UX Design,29-09-2024,30000,Sep-24,Ongoing,,,,
+S1139,Shruti Shinde,Male,Aurangabad,Full Stack Development,27-09-2024,50000,Sep-24,Ongoing,,,,
+S1140,Aditi Mehta,Male,Mumbai,Full Stack Development,17-12-2025,50000,Dec-25,Completed,16-03-2026 00:00,Not Placed,,
+S1141,Rahul Kale,Female,Pune,Data Analytics,07-11-2024,45000,Nov-24,Completed,29-01-2025 00:00,Placed,TCS,5
+S1142,Kunal Mishra,Female,Pune,Digital Marketing,22-02-2025,35000,Feb-25,Ongoing,,,,
+S1143,Aditya Pawar,Male,Aurangabad,Cyber Security,04-10-2024,55000,Oct-24,Completed,24-12-2024 00:00,Placed,TCS,7.2
+S1144,Vikram Kulkarni,Male,Nashik,Full Stack Development,13-05-2025,50000,May-25,Ongoing,,,,
+S1145,Anjali Deshmukh,Female,Nagpur,Full Stack Development,07-11-2025,50000,Nov-25,Completed,23-02-2026 00:00,Placed,TCS,6.7
+S1146,Nikhil Gupta,Male,Pune,Data Analytics,23-08-2025,45000,Aug-25,Ongoing,,,,
+S1147,Swati Naik,Female,Aurangabad,Full Stack Development,25-01-2025,50000,Jan-25,Completed,09-05-2025 00:00,Not Placed,,
+S1148,Bhakti Verma,Male,Nagpur,Cyber Security,28-05-2024,55000,May-24,Completed,11-08-2024 00:00,Placed,Capgemini,4.7
+S1149,Bhakti Rane,Female,Pune,Data Analytics,29-09-2025,45000,Sep-25,Completed,13-01-2026 00:00,Placed,Capgemini,4
+S1150,Pratik Yadav,Male,Mumbai,Full Stack Development,04-11-2025,50000,Nov-25,Completed,22-02-2026 00:00,Placed,TCS,5.9
+S1151,Isha Yadav,Female,Nashik,Full Stack Development,21-12-2025,50000,Dec-25,Completed,13-04-2026 00:00,Not Placed,,
+S1152,Kavya Patil,Male,Nashik,Data Analytics,01-04-2025,45000,Apr-25,Completed,11-07-2025 00:00,Placed,Accenture,4.6
+S1153,Shruti Verma,Male,Aurangabad,Data Analytics,28-08-2024,45000,Aug-24,Ongoing,,,,
+S1154,Isha Pawar,Male,Nagpur,UI/UX Design,13-11-2025,30000,Nov-25,Ongoing,,,,
+S1155,Sneha Verma,Male,Mumbai,Full Stack Development,31-01-2025,50000,Jan-25,Ongoing,,,,
+S1156,Aditi Sawant,Female,Aurangabad,Data Analytics,09-06-2025,45000,Jun-25,Completed,28-09-2025 00:00,Placed,Wipro,6.2
+S1157,Rahul Kulkarni,Male,Nashik,UI/UX Design,24-12-2025,30000,Dec-25,Completed,20-03-2026 00:00,Not Placed,,
+S1158,Riya Kale,Female,Pune,UI/UX Design,27-04-2025,30000,Apr-25,Completed,18-08-2025 00:00,Not Placed,,
+S1159,Tanvi Deshmukh,Male,Nagpur,Full Stack Development,27-09-2024,50000,Sep-24,Ongoing,,,,
+S1160,Manish Shinde,Male,Nashik,Digital Marketing,12-09-2025,35000,Sep-25,Dropped,,,,
+S1161,Rohit Singh,Male,Mumbai,Digital Marketing,22-07-2025,35000,Jul-25,Completed,11-11-2025 00:00,Placed,Wipro,7
+S1162,Neha Sharma,Male,Nagpur,Digital Marketing,03-11-2025,35000,Nov-25,Ongoing,,,,
+S1163,Sagar Shinde,Male,Nagpur,Digital Marketing,12-10-2024,35000,Oct-24,Dropped,,,,
+S1164,Kavya Joshi,Male,Mumbai,Full Stack Development,06-07-2025,50000,Jul-25,Ongoing,,,,
+S1165,Omkar Deshmukh,Female,Mumbai,Cyber Security,22-01-2024,55000,Jan-24,Completed,04-04-2024 00:00,Placed,Infosys,8
+S1166,Isha Shinde,Female,Pune,UI/UX Design,29-07-2024,30000,Jul-24,Completed,18-10-2024 00:00,Placed,Wipro,6.8
+S1167,Rohit Deshmukh,Male,Nashik,UI/UX Design,05-10-2025,30000,Oct-25,Ongoing,,,,
+S1168,Tanvi Naik,Female,Aurangabad,Digital Marketing,03-01-2025,35000,Jan-25,Completed,18-03-2025 00:00,Placed,Wipro,8
+S1169,Sagar Pawar,Male,Aurangabad,UI/UX Design,23-04-2025,30000,Apr-25,Completed,03-08-2025 00:00,Placed,TCS,5
+S1170,Aditi Gupta,Male,Pune,Full Stack Development,29-03-2024,50000,Mar-24,Completed,24-07-2024 00:00,Placed,Capgemini,6.4
+S1171,Shruti Sharma,Female,Mumbai,UI/UX Design,13-11-2025,30000,Nov-25,Ongoing,,,,
+S1172,Aditi Sawant,Female,Mumbai,UI/UX Design,14-05-2024,30000,May-24,Completed,01-09-2024 00:00,Placed,Wipro,7.5
+S1173,Yash Joshi,Male,Nashik,Data Analytics,25-09-2024,45000,Sep-24,Completed,07-12-2024 00:00,Placed,Infosys,6.9
+S1174,Harsh Verma,Female,Pune,Full Stack Development,19-08-2024,50000,Aug-24,Ongoing,,,,
+S1175,Isha Naik,Female,Nagpur,Full Stack Development,23-10-2025,50000,Oct-25,Completed,18-01-2026 00:00,Placed,Accenture,4.4
+S1176,Manish Naik,Female,Nashik,Digital Marketing,27-10-2025,35000,Oct-25,Completed,01-02-2026 00:00,Not Placed,,
+S1177,Tejas Yadav,Male,Pune,Data Analytics,03-04-2024,45000,Apr-24,Completed,03-07-2024 00:00,Placed,TCS,5.4
+S1178,Arjun Rane,Male,Pune,Digital Marketing,26-04-2025,35000,Apr-25,Ongoing,,,,
+S1179,Riya Joshi,Female,Nashik,Digital Marketing,15-05-2024,35000,May-24,Completed,25-07-2024 00:00,Placed,Infosys,4.2
+S1180,Aditi Naik,Female,Nashik,Cyber Security,13-04-2025,55000,Apr-25,Completed,18-06-2025 00:00,Not Placed,,
+S1181,Tanvi Singh,Female,Nashik,Full Stack Development,13-04-2024,50000,Apr-24,Completed,07-07-2024 00:00,Not Placed,,
+S1182,Rahul Verma,Male,Nashik,Digital Marketing,02-09-2024,35000,Sep-24,Completed,27-11-2024 00:00,Placed,Infosys,3.8
+S1183,Riya Jadhav,Male,Nagpur,UI/UX Design,16-06-2025,30000,Jun-25,Dropped,,,,
+S1184,Omkar Singh,Male,Pune,Cyber Security,06-01-2024,55000,Jan-24,Dropped,,,,
+S1185,Rahul Patil,Male,Nagpur,Digital Marketing,07-03-2024,35000,Mar-24,Completed,21-05-2024 00:00,Placed,Wipro,4.5
+S1186,Neha Kale,Male,Nashik,Digital Marketing,16-09-2024,35000,Sep-24,Completed,17-11-2024 00:00,Placed,Accenture,5.7
+S1187,Aditya Joshi,Female,Pune,Full Stack Development,14-02-2024,50000,Feb-24,Dropped,,,,
+S1188,Nikhil Gupta,Male,Aurangabad,Full Stack Development,01-07-2025,50000,Jul-25,Completed,16-10-2025 00:00,Not Placed,,
+S1189,Yash Rane,Male,Pune,Cyber Security,20-10-2024,55000,Oct-24,Dropped,,,,
+S1190,Sagar Gupta,Male,Nagpur,Digital Marketing,04-11-2025,35000,Nov-25,Completed,11-02-2026 00:00,Placed,Accenture,5.2
+S1191,Pratik Mishra,Female,Mumbai,UI/UX Design,03-03-2024,30000,Mar-24,Completed,21-05-2024 00:00,Not Placed,,
+S1192,Omkar Mehta,Female,Nagpur,Full Stack Development,10-03-2025,50000,Mar-25,Completed,04-06-2025 00:00,Placed,Capgemini,3.2
+S1193,Manish Sawant,Female,Mumbai,Digital Marketing,30-03-2024,35000,Mar-24,Completed,27-07-2024 00:00,Placed,Capgemini,7.4
+S1194,Neha Kulkarni,Female,Nagpur,UI/UX Design,09-08-2025,30000,Aug-25,Ongoing,,,,
+S1195,Nikhil Kale,Male,Aurangabad,Cyber Security,09-11-2025,55000,Nov-25,Completed,09-03-2026 00:00,Placed,Infosys,5.7
+S1196,Nikhil Sharma,Male,Pune,Cyber Security,29-08-2025,55000,Aug-25,Completed,28-10-2025 00:00,Placed,Accenture,7.8
+S1197,Aditya Rane,Female,Pune,Digital Marketing,25-08-2024,35000,Aug-24,Completed,04-12-2024 00:00,Placed,Infosys,3
+S1198,Swati More,Female,Aurangabad,Data Analytics,15-06-2024,45000,Jun-24,Completed,02-09-2024 00:00,Placed,TCS,3.4
+S1199,Shruti Naik,Female,Nashik,UI/UX Design,26-02-2025,30000,Feb-25,Ongoing,,,,
+S1200,Aditi Chavan,Male,Mumbai,Digital Marketing,03-12-2025,35000,Dec-25,Ongoing,,,,
